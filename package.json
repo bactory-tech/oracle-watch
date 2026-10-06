@@ -1,0 +1,36 @@
+{
+  "name": "oracle-watch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hourly health check of every Chainlink data feed on Base.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "check": "tsx src/index.ts",
+    "check:strict": "tsx src/index.ts --strict",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "chainlink",
+    "oracle",
+    "base",
+    "defi",
+    "monitoring",
+    "price-feeds",
+    "l2-sequencer"
+  ],
+  "homepage": "https://github.com/bactory-tech/oracle-watch",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "tsx": "^4.23.15",
+    "viem": "^2.57.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
