@@ -10,9 +10,9 @@ when the price is not fresh. [GitHub](https://github.com/bactory-tech) · [X](ht
 ## Live report
 
 <!-- report:start -->
-**Last check:** 2026-10-07 04:24 UTC · block [52278848](https://basescan.org/block/52278848) · 181 feeds
+**Last check:** 2026-10-07 05:23 UTC · block [52280635](https://basescan.org/block/52280635) · 181 feeds
 
-**Base sequencer:** 🟢 up since 2026-06-26 (102d 11h)
+**Base sequencer:** 🟢 up since 2026-06-26 (102d 12h)
 
 | 🟢 ok | ⏸️ paused | 🟡 late | 🔴 stale | ⚠️ invalid | ⚠️ error |
 | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -26,197 +26,197 @@ Nothing. Every crypto feed updated within its heartbeat.
 
 | Feed | Age | Heartbeat | Used |
 | --- | ---: | ---: | ---: |
-| [BRL / USD](https://basescan.org/address/0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394) | 58m | 1h 0m | 97% |
-| [yUSD / USD Exchange Rate](https://basescan.org/address/0xc1a849217F3BaB97F1a46b990e369D6705B4be96) | 55m | 1h 0m | 92% |
-| [rETH / ETH Exchange Rate](https://basescan.org/address/0x1E6A29666288a310326B37d823Fe4Ea3937424D2) | 22h 4m | 1d 0h | 92% |
-| [GBP / USD](https://basescan.org/address/0xCceA6576904C118037695eB71195a5425E69Fa15) | 20h 50m | 1d 0h | 87% |
-| [PHP / USD](https://basescan.org/address/0x0396000dc82bfAEe746A9Ac6dC69dAd3223Ca9c6) | 20h 30m | 1d 0h | 85% |
+| [rETH / ETH Exchange Rate](https://basescan.org/address/0x1E6A29666288a310326B37d823Fe4Ea3937424D2) | 23h 3m | 1d 0h | 96% |
+| [BRL / USD](https://basescan.org/address/0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394) | 57m | 1h 0m | 96% |
+| [GBP / USD](https://basescan.org/address/0xCceA6576904C118037695eB71195a5425E69Fa15) | 21h 50m | 1d 0h | 91% |
+| [yUSD / USD Exchange Rate](https://basescan.org/address/0xc1a849217F3BaB97F1a46b990e369D6705B4be96) | 54m | 1h 0m | 91% |
+| [PHP / USD](https://basescan.org/address/0x0396000dc82bfAEe746A9Ac6dC69dAd3223Ca9c6) | 21h 29m | 1d 0h | 90% |
 
 <details><summary><b>All 181 feeds</b></summary>
 
 | Feed | Value | Age | Heartbeat | Status |
 | --- | ---: | ---: | ---: | --- |
-| [AAVE / USD](https://basescan.org/address/0x65B5d02E1Fff839b8B67Fa26F8540e5f11454316) | 173.2196 | 23m | 1d 0h | 🟢 ok |
-| [AAVE / USD](https://basescan.org/address/0x3d6774EF702A10b20FCa8Ed40FC022f7E4938e07) | 173.3085 | 24m | 1d 0h | 🟢 ok |
-| [AAVE Network Emergency Count (Base)](https://basescan.org/address/0xd9c5B59A913d75AC44EB51b7E0F3f5B58816ECAc) | 0 | 13h 17m | 1d 0h | 🟢 ok |
-| [ADA / USD](https://basescan.org/address/0x5299a0e1e79BaebA0EAB96C10727DF35489aAA38) | 0.25497907 | 10m | 1d 0h | 🟢 ok |
-| [ADA / USD](https://basescan.org/address/0xf4DF589BeAbE63fEF977c73b9150BD2bdA1e346C) | 0.25437264 | 46m | 1d 0h | 🟢 ok |
-| [AERO / USD](https://basescan.org/address/0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0) | 0.78831458 | 1h 10m | 1d 0h | 🟢 ok |
-| [AMP / USD](https://basescan.org/address/0x1688e4B274a4CC9fD398EbA6Ae4dfb6528A9D2bc) | 0.00059532 | 22m | 1d 0h | 🟢 ok |
-| [APT / USD](https://basescan.org/address/0x88a98431C25329AA422B21D147c1518b34dD36F4) | 0.76159253 | 3m | 1d 0h | 🟢 ok |
-| [APXUSD / USD Exchange Rate](https://basescan.org/address/0x2B5f2D558BEb94d2FE5D97f53b564B5e17715c39) | 1 | 9h 26m | 1d 0h | 🟢 ok |
-| [ARKB Reserves](https://basescan.org/address/0xB366E8Efb9661323ff477CedF70f55F897D6cFeA) | 33,492.87 | 7h 21m | 1d 0h | 🟢 ok |
-| [ARSx Proof of Reserves](https://basescan.org/address/0x4F2fe331C8EB0fb8A84A4d893C87Cf28A36Ab093) | 4,011,066.35 | 9h 57m | 1d 0h | 🟢 ok |
-| [AUD / USD](https://basescan.org/address/0x46e51B8cA41d709928EdA9Ae43e42193E6CDf229) | 0.69804 | 15h 56m | 1d 0h | 🟢 ok |
-| [AVAX / USD](https://basescan.org/address/0xE70f2D34Fd04046aaEC26a198A35dD8F2dF5cd92) | 11.039 | 42m | 1d 0h | 🟢 ok |
-| [AVNT / USD](https://basescan.org/address/0x50997b806B574501cC34a2a6d845e4dc1Bd9Aa8c) | 0.1230093 | 5m | 1d 0h | 🟢 ok |
-| [AXL / USD](https://basescan.org/address/0x676C4C6C31D97A5581D3204C04A8125B350E2F9D) | 0.05116502 | 17m | 1d 0h | 🟢 ok |
-| [BNB / USD](https://basescan.org/address/0x4b7836916781CAAfbb7Bd1E5FDd20ED544B453b1) | 765.006 | 2h 12m | 1d 0h | 🟢 ok |
-| [BRL / USD](https://basescan.org/address/0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394) | 0.20069037 | 58m | 1h 0m | 🟢 ok |
-| [BTC / USD](https://basescan.org/address/0x32F587986D3fb47601157c19615d568BeD0BCabc) | 84,104.49 | 16m | 20m | 🟢 ok |
-| [BTC / USD](https://basescan.org/address/0xC01502b887D09B0f329981764268fC32a94cB453) | 84,091.74 | 16m | 20m | 🟢 ok |
-| [BTC / USD](https://basescan.org/address/0x8D9e0911A532e2a3C005667B475E6F9742355f2b) | 84,071.59 | 15m | 20m | 🟢 ok |
-| [CAD / USD](https://basescan.org/address/0xA840145F87572E82519d578b1F36340368a25D5d) | 0.7031607 | 45m | 1h 0m | 🟢 ok |
-| [cbBTC / USD](https://basescan.org/address/0x07DA0E54543a844a80ABE69c8A12F22B3aA59f9D) | 84,113.7 | 12m | 20m | 🟢 ok |
-| [CBBTC / USD](https://basescan.org/address/0x10509b4053385b49145Fab2D6B1c58e96Eac5b79) | 84,051.74 | 2h 3m | 1d 0h | 🟢 ok |
-| [cbBTC Reserves](https://basescan.org/address/0x0F8E057D1D7b282EF968D26E9cB432617dF52519) | 96,095.32 | 12h 47m | 1d 0h | 🟢 ok |
-| [CBDOGE / USD](https://basescan.org/address/0x95051De9Db5Cac61682f64505006f2991dEaB3c2) | 0.09015958 | 35m | 1d 0h | 🟢 ok |
-| [CBETH / ETH](https://basescan.org/address/0x806b4Ac04501c29769051e42783cF04dCE41440b) | 1.141 | 14h 0m | 1d 0h | 🟢 ok |
-| [CBETH / USD](https://basescan.org/address/0xd7818272B9e248357d13057AAb0B417aF31E817d) | 2,974.69 | 2m | 20m | 🟢 ok |
-| [cbETH-ETH Exchange Rate](https://basescan.org/address/0x868a501e68F3D1E89CfC0D22F6b22E8dabce5F04) | 1.141 | 13h 56m | 1d 0h | 🟢 ok |
-| [CBXRP / USD](https://basescan.org/address/0xEEe1a9D5A0C36d99972C057Cb959267e88Ab9160) | 1.4658 | 33m | 1d 0h | 🟢 ok |
-| [ccUSDC / USDC Exchange Rate](https://basescan.org/address/0x1Bb54D3d4edBB52B83BC89Da5B176Facc90D46bc) | 1.1387 | 5h 22m | 1d 0h | 🟢 ok |
-| [CHF / USD](https://basescan.org/address/0x3A1d6444fb6a402470098E23DaD0B7E86E14252F) | 1.2031 | 14h 59m | 1d 0h | 🟢 ok |
-| [Coinbase AAPL](https://basescan.org/address/0x787f13dEa48Db0897CbCDD985de77809D837F988) | 332.73 | 14h 16m | 1d 0h | 🟢 ok |
-| [Coinbase AMZN](https://basescan.org/address/0x06A8E4b3aBB3B7543d8396FB2B763d22820cB295) | 256.9306 | 6h 22m | 1d 0h | 🟢 ok |
-| [Coinbase COIN](https://basescan.org/address/0x408e44f504A7371a345F03a73dDC96A4b48e8aa7) | 183.93 | 31m | 1d 0h | 🟢 ok |
-| [Coinbase CRCL](https://basescan.org/address/0x0231cF2635D1E17bB5c2462cc7504Ba1fBd61f33) | 83.345 | 33m | 1d 0h | 🟢 ok |
-| [Coinbase GOOGL](https://basescan.org/address/0x5bF49E0ffA937CE2FfF033c739aD7C634c4D34F2) | 347.3309 | 11h 24m | 1d 0h | 🟢 ok |
-| [Coinbase INTC](https://basescan.org/address/0xAB657C39bac0D5886250D70849e2E3E008F2EECB) | 112.98 | 5m | 1d 0h | 🟢 ok |
-| [Coinbase META](https://basescan.org/address/0x6526aE6797A76123638b863AeE4dD27Ba4E4b27D) | 741.2775 | 14h 4m | 1d 0h | 🟢 ok |
-| [Coinbase MSFT](https://basescan.org/address/0xeB10A6c9aa7E537aEd766C08c35Dae35B321b18c) | 529.773 | 8h 29m | 1d 0h | 🟢 ok |
-| [Coinbase MSTR](https://basescan.org/address/0xB3cE282CD188b35DA0E38D8Bc7d58e33173D202a) | 161.67 | 1h 4m | 1d 0h | 🟢 ok |
-| [Coinbase NVDA](https://basescan.org/address/0x04689a41629776563E6822F76f2e57D148d28513) | 240.6744 | 5h 36m | 1d 0h | 🟢 ok |
-| [Coinbase SNDK](https://basescan.org/address/0x388b0dC46C0Fb05A74BeE0994fa5b02c6Fcca2eA) | 1,645.86 | 1h 45m | 1d 0h | 🟢 ok |
-| [Coinbase SPCX](https://basescan.org/address/0x6A634B235903C4ad6376892180d6fF8612e3Fa68) | 169.08 | 1h 17m | 1d 0h | 🟢 ok |
-| [Coinbase TSLA](https://basescan.org/address/0xFaf869185383a24F8cb00e27BdA6b63B9905DCb4) | 378.135 | 2h 1m | 1d 0h | 🟢 ok |
-| [Coinshift USPC Reserves](https://basescan.org/address/0xE1F1011D0043392174bF95F0725130E870AbACaa) | 26,044,689.71 | 11h 25m | 1d 0h | 🟢 ok |
-| [COMP / USD](https://basescan.org/address/0x9DDa783DE64A9d1A60c49ca761EbE528C35BA428) | 23.312 | 20m | 1d 0h | 🟢 ok |
-| [DAI / USD](https://basescan.org/address/0x591e79239a7d679378eC8c847e5038150364C78F) | 0.99954758 | 13h 59m | 1d 0h | 🟢 ok |
-| [DEGEN / USD](https://basescan.org/address/0xE62BcE5D7CB9d16AB8b4D622538bc0A50A5799c2) | 0.00102863 | 1h 7m | 1d 0h | 🟢 ok |
-| [DOGE / USD](https://basescan.org/address/0x249d22434438889106DbB59a576a1787b115E52d) | 0.08993424 | 17m | 1d 0h | 🟢 ok |
-| [DOGE / USD](https://basescan.org/address/0x304adeae3041d6D0745249FD4583e8C542De67d6) | 0.08993499 | 18m | 1d 0h | 🟢 ok |
-| [ETH / USD](https://basescan.org/address/0x50015f8b17fb2C290Dde41fDc246ed0dcEE93a8b) | 2,607.14 | 5m | 20m | 🟢 ok |
-| [ETH / USD](https://basescan.org/address/0x5731Ae06077c79A3B292498940211E0aE7130bd3) | 2,607.2 | 5m | 20m | 🟢 ok |
-| [ETH / USD](https://basescan.org/address/0xa4250cE1aA15Ff4cb5E5a8655293b65694e436Ed) | 2,607.87 | 4m | 20m | 🟢 ok |
-| [EUR / USD](https://basescan.org/address/0xc91D87E81faB8f93699ECf7Ee9B44D11e1D53F0F) | 1.1238 | 17m | 1h 0m | 🟢 ok |
-| [EURC / USD](https://basescan.org/address/0x9867186e52d2F1C2c565CDA6E747101Fa56501e0) | 1.1234 | 20m | 1h 0m | 🟢 ok |
-| [EURC / USD](https://basescan.org/address/0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250) | 1.1241 | 19h 42m | 1d 0h | 🟢 ok |
-| [EURC / USD](https://basescan.org/address/0xa25cBF938Ace4b219a9d012971c7b4e898EF6c68) | 1.1238 | 18h 58m | 1d 0h | 🟢 ok |
-| [ezETH / ETH](https://basescan.org/address/0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3) | 1.0849 | 13h 25m | 1d 0h | 🟢 ok |
-| [ezETH / ETH Exchange Rate](https://basescan.org/address/0xC4300B7CF0646F0Fe4C5B2ACFCCC4dCA1346f5d8) | 1.0872 | 13h 57m | 1d 0h | 🟢 ok |
-| [EZETH / ETH Exchange Rate](https://basescan.org/address/0x442f870a32Ea74C1A4630f7Dc357F8aBd552eF37) | 1.0872 | 7h 57m | 1d 0h | 🟢 ok |
-| [FRNT Proof of Reserves](https://basescan.org/address/0xB93901c344325f89630C56458eD1dD27a76a2FCd) | 968,051.85 | 16h 8m | 1d 0h | 🟢 ok |
-| [GBP / USD](https://basescan.org/address/0xCceA6576904C118037695eB71195a5425E69Fa15) | 1.3223 | 20h 50m | 1d 0h | 🟢 ok |
-| [GHO / USD](https://basescan.org/address/0x1B5FEF61Ff9B690364359b03cC07E060b12Bd3C1) | 0.99943772 | 7h 57m | 1d 0h | 🟢 ok |
-| [GHO / USD](https://basescan.org/address/0x42868EFcee13C0E71af89c04fF7d96f5bec479b0) | 0.99944088 | 13h 40m | 1d 0h | 🟢 ok |
-| [GLDY Reserves](https://basescan.org/address/0xf488FA1B4Ac8210bf0b2d212176ca28c48F86708) | 3,350.52 | 5h 41m | 1d 0h | 🟢 ok |
-| [HOME / USD](https://basescan.org/address/0x121934C415937863d64ef93436169444633EE0d8) | 0.00563151 | 15m | 1d 0h | 🟢 ok |
-| [HYPE / USD](https://basescan.org/address/0xEdB56c5DE751eD3182DDa337f7d9ab33cf091DcA) | 90.2705 | 5m | 1d 0h | 🟢 ok |
-| [iBTC Proof of Reserves](https://basescan.org/address/0x7FCED5198e43ec93Ef2179DFC70a8dcf494DcB80) | 0.01 | 14h 7m | 1d 0h | 🟢 ok |
-| [IDR / USD](https://basescan.org/address/0x05A6cF213EcC5501A11a08EBefA4A8a60313ef97) | 0.00005594 | 34m | 1h 0m | 🟢 ok |
-| [inETH / ETH Exchange Rate](https://basescan.org/address/0x83ac12dBb5Bd7Fa597ab2FFEc9F2F13DeDdFe163) | 1.0402 | 13h 52m | 1d 0h | 🟢 ok |
-| [instETH / ETH Exchange Rate](https://basescan.org/address/0x9C6BF4884Ff0c7873652F7d5142FA3b9859a526D) | 1.0909 | 13h 27m | 1d 0h | 🟢 ok |
-| [JITOSOL / USD](https://basescan.org/address/0x0ca181015d21A5ed19baFC17F2138883C2b16D54) | 154.1943 | 1h 43m | 1d 0h | 🟢 ok |
-| [JITOSOL-SOL Calculated](https://basescan.org/address/0x4b28dFaF2aCaF982524a75409Ab59DFf85942Ad7) | 1.3048 | 13h 21m | 1d 0h | 🟢 ok |
-| [LBTC / BTC](https://basescan.org/address/0x1E6c22AAA11F507af12034A5Dc4126A6A25DC8d2) | 1.0034 | 14h 3m | 1d 0h | 🟢 ok |
-| [LBTC / BTC Exchange Rate](https://basescan.org/address/0xBf4892f41c753c5E1b03e8a7B425bd2679a6C224) | 1.0044 | 7h 56m | 1d 0h | 🟢 ok |
-| [LBTC / USD](https://basescan.org/address/0x9e07546c9Fe8868855CD04B26051a26D1599E270) | 84,407.71 | 2h 22m | 1d 0h | 🟢 ok |
-| [LINK / ETH](https://basescan.org/address/0xc5E65227fe3385B88468F9A01600017cDC9F3A12) | 0.00520044 | 2m | 1d 0h | 🟢 ok |
-| [LINK / USD](https://basescan.org/address/0x17CAb8FE31E32f08326e5E27412894e49B0f9D65) | 13.5883 | 6m | 1d 0h | 🟢 ok |
-| [LTC / USD](https://basescan.org/address/0xa03A14F790eb8F5Ff73227278a3bb6eDE57Dc8c9) | 67.7485 | 1h 51m | 1d 0h | 🟢 ok |
-| [MAMO / USD](https://basescan.org/address/0xeF7541b388a77C1709a3d44BfBfC5c1ED3F0Ac94) | 0.00770369 | 1h 47m | 1d 0h | 🟢 ok |
-| [MAVIA / USD](https://basescan.org/address/0x979447581b39caCA33EF0CA8208592393D16cc13) | 0.03158 | 1h 10m | 1d 0h | 🟢 ok |
-| [MEW / USD](https://basescan.org/address/0x9FB8b5A4b3FE655564f0c76616ae79DE90Cc7382) | 0.0005005 | 17m | 1d 0h | 🟢 ok |
-| [MLN / USD](https://basescan.org/address/0x122b5334A8b55861dBc6729c294451471FbF318D) | 1.5423 | 2h 31m | 1d 0h | 🟢 ok |
-| [MOG / USD](https://basescan.org/address/0x4aeb6D15769EaD32D0c5Be2940F40c7CFf53801d) | 0.00000011 | 24m | 1d 0h | 🟢 ok |
-| [MORPHO / USD](https://basescan.org/address/0xe95e258bb6615d47515Fc849f8542dA651f12bF6) | 2.5523 | 5m | 1d 0h | 🟢 ok |
-| [MXN / USD](https://basescan.org/address/0xb87Eba1aF247453930B71B87e948049882B1A95e) | 0.05564335 | 16h 41m | 1d 0h | 🟢 ok |
-| [MXN / USD](https://basescan.org/address/0x9e8Ee77c76d4fa41306056D1C3196AF5da1600bd) | 0.05551908 | 20m | 1h 0m | 🟢 ok |
-| [NGN / USD](https://basescan.org/address/0xdfbb5Cbc88E382de007bfe6CE99C388176ED80aD) | 0.00075414 | 3m | 1h 0m | 🟢 ok |
-| [NZD / USD](https://basescan.org/address/0x06bdFe07E71C476157FC025d3cCD4BBe08e83EF9) | 0.5607 | 4m | 1d 0h | 🟢 ok |
-| [OP / USD](https://basescan.org/address/0x3E3A6bD129A63564FE7abde85FA67c3950569060) | 0.12177556 | 23m | 1d 0h | 🟢 ok |
-| [OUSD / USD](https://basescan.org/address/0xa718561C4592217b9fa301ADdD183FE4F347E096) | 0.99992868 | 13h 23m | 1d 0h | 🟢 ok |
-| [PAXG / USD](https://basescan.org/address/0xd49c546D32D5472a7F7704EC183128512a1B2fcb) | 4,143.88 | 1h 7m | 1d 0h | 🟢 ok |
-| [PCE Price Index — Level](https://basescan.org/address/0x18A3fcA54FaC5B05837205bA4b823fc56191F793) | 131.579 | 6d 15h | 35d 0h | 🟢 ok |
-| [PCE Price Index — Percent Change (Annual Rate)](https://basescan.org/address/0x2a18E2d46Cb067b69e0759dB39b16597fC42D962) | 5 | 6d 15h | 35d 0h | 🟢 ok |
-| [PEPE / USD](https://basescan.org/address/0xB48ac6409C0c3718b956089b0fFE295A10ACDdad) | 0.00000409 | 6m | 1d 0h | 🟢 ok |
-| [PHP / USD](https://basescan.org/address/0x0396000dc82bfAEe746A9Ac6dC69dAd3223Ca9c6) | 0.01592635 | 20h 30m | 1d 0h | 🟢 ok |
-| [POL / USD](https://basescan.org/address/0x5E988c11a4f92155C30D9fb69Ed75597f712B113) | 0.10308543 | 21m | 1d 0h | 🟢 ok |
-| [pufETH / ETH Exchange Rate](https://basescan.org/address/0x69a1d14a4e58e97EDE8337DE61eEB2e4a55886E0) | 1.0743 | 13h 25m | 1d 0h | 🟢 ok |
-| [RDNT / USD](https://basescan.org/address/0xEf2E24ba6def99B5e0b71F6CDeaF294b02163094) | 0.00044943 | 59s | 1d 0h | 🟢 ok |
-| [Real Final Sales to Private Domestic Purchasers — Level](https://basescan.org/address/0x65623109aA4561AD3cfF503542083548CeD7e085) | 21,432.08 | 6d 15h | 35d 0h | 🟢 ok |
-| [Real Final Sales to Private Domestic Purchasers — Percent Change (Annual Rate)](https://basescan.org/address/0xe2b3688371130f333443428Cf03f27Ce0378F9dC) | 4.6 | 6d 15h | 35d 0h | 🟢 ok |
-| [Real GDP — Level](https://basescan.org/address/0x0df397aFE00085C138a99eFB39C498e08eB95aD1) | 24,408.01 | 6d 15h | 35d 0h | 🟢 ok |
-| [Real GDP — Percent Change (Annual Rate)](https://basescan.org/address/0xe0eda54fC1362C0d7d0ff855E4fCEA79916Fe094) | 2.2 | 6d 15h | 35d 0h | 🟢 ok |
-| [RETH / ETH](https://basescan.org/address/0xf397bF97280B488cA19ee3093E81C0a77F02e9a5) | 1.1699 | 18h 31m | 1d 0h | 🟢 ok |
-| [rETH / ETH Exchange Rate](https://basescan.org/address/0x1E6A29666288a310326B37d823Fe4Ea3937424D2) | 1.1732 | 22h 4m | 1d 0h | 🟢 ok |
-| [RLUSD / USD](https://basescan.org/address/0x900E653c6b25eCf1eF43525fcCC5263E654085cc) | 0.99995622 | 13h 46m | 1d 0h | 🟢 ok |
-| [RSETH / ETH](https://basescan.org/address/0xd7221b10FBBC1e1ba95Fd0B4D031C15f7F365296) | 1.079 | 18h 16m | 1d 0h | 🟢 ok |
-| [rsETH / ETH Exchange Rate](https://basescan.org/address/0x99DAf760d2CFB770cc17e883dF45454FE421616b) | 1.0816 | 13h 38m | 1d 0h | 🟢 ok |
-| [rsETH / ETH Exchange Rate](https://basescan.org/address/0xAc0a5bB171350536207245afB0EB269b8195501B) | 1.0816 | 7h 57m | 1d 0h | 🟢 ok |
-| [RSR / USD](https://basescan.org/address/0xAa98aE504658766Dfe11F31c5D95a0bdcABDe0b1) | 0.00166428 | 2h 23m | 1d 0h | 🟢 ok |
-| [rswETH / ETH Exchange Rate](https://basescan.org/address/0x97b770B0200CCe161907a9cbe0C6B177679f8F7C) | 1.0822 | 14h 4m | 1d 0h | 🟢 ok |
-| [rwaUSD NAV](https://basescan.org/address/0xD8B5397eDE8B83553BdFCCAA496dd771c5336D37) | 1 | 11h 56m | 1d 0h | 🟢 ok |
-| [SAVUSD / AVUSD Exchange Rate](https://basescan.org/address/0xAc5287ad4B1629a88964085FDD1F7d45f8032D33) | 1.2066 | 13h 8m | 1d 0h | 🟢 ok |
-| [sfrxETH-frxETH Exchange Rate](https://basescan.org/address/0x1Eba1d6941088c8FCE2CbcaC80754C77871aD093) | 1.1711 | 13h 43m | 1d 0h | 🟢 ok |
-| [SGD / USD](https://basescan.org/address/0x81575495532fB311Efc5C993B612564274F0949b) | 0.78255833 | 14h 10m | 1d 0h | 🟢 ok |
-| [SHIB / USD](https://basescan.org/address/0xC8D5D660bb585b68fa0263EeD7B4224a5FC99669) | 0.00000552 | 17m | 1d 0h | 🟢 ok |
-| [SNX / USD](https://basescan.org/address/0xe3971Ed6F1A5903321479Ef3148B5950c0612075) | 0.24367037 | 21m | 1d 0h | 🟢 ok |
-| [SOL / USD](https://basescan.org/address/0xDa5Fd22F9382e57534fEdA4fF544878aa1cf401f) | 118.476 | 1h 20m | 1d 0h | 🟢 ok |
-| [SOL / USD](https://basescan.org/address/0x5D424D5a664a9f3c820F422297077d49877F9C93) | 118.152 | 2h 3m | 1d 0h | 🟢 ok |
-| [SolvBTC.BBN / SolvBTC Exchange Rate](https://basescan.org/address/0x67283A47E470afbCcc4aC74ccC32401a81027691) | 1 | 13h 28m | 1d 0h | 🟢 ok |
-| [STETH / ETH](https://basescan.org/address/0xf586d0728a47229e747d824a939000Cf21dEF5A0) | 0.9996238 | 14h 1m | 1d 0h | 🟢 ok |
-| [STG / USD](https://basescan.org/address/0x63Af8341b62E683B87bB540896bF283D96B4D385) | 0.188893 | 1h 7m | 1d 0h | 🟢 ok |
-| [SUI / USD](https://basescan.org/address/0x491a921c41d6a97C57426E0c0108a231cd6E5f60) | 1.1384 | 17m | 1d 0h | 🟢 ok |
-| [SUPEROETHB / ETH](https://basescan.org/address/0x39C6E14CdE46D4FFD9F04Ff159e7ce8eC20E10B4) | 0.99933961 | 13h 41m | 1d 0h | 🟢 ok |
-| [SUSDAI / USDAI Exchange Rate](https://basescan.org/address/0x1a42ec779Ed3e5249d9b83Ad6B51492953080Ad9) | 1.1171 | 10h 26m | 1d 0h | 🟢 ok |
-| [sUSDe / USD](https://basescan.org/address/0x79cf4a31B29D69191f0b6E97916eB93FEB81E533) | 1.2513 | 13h 23m | 1d 0h | 🟢 ok |
-| [sUSDe / USDe Exchange Rate](https://basescan.org/address/0xdEd37FC1400B8022968441356f771639ad1B23aA) | 1.2517 | 13h 58m | 1d 0h | 🟢 ok |
-| [sUSDS / USDS Exchange Rate](https://basescan.org/address/0x906B24a339b848369B24Dc9Ed368b947fB9693bf) | 1.1119 | 13h 37m | 1d 0h | 🟢 ok |
-| [sUSDz / USDz Exchange Rate](https://basescan.org/address/0xD89c7fFB39C44b17EAecd8717a75A36c19C07582) | 1.2853 | 14h 6m | 1d 0h | 🟢 ok |
-| [swBTC / WBTC Exchange Rate](https://basescan.org/address/0xBD867487712ADeC5A59b9Ae475Ee942f652B4C91) | 1 | 13h 27m | 1d 0h | 🟢 ok |
-| [syrupUSDC-USDC Exchange Rate](https://basescan.org/address/0x311D3A3faA1d5939c681E33C2CDAc041FF388EB2) | 1.1867 | 13h 32m | 1d 0h | 🟢 ok |
-| [TBTC / USD](https://basescan.org/address/0x6D75BFB5A5885f841b132198C9f0bE8c872057BF) | 84,111.65 | 34m | 1d 0h | 🟢 ok |
-| [Tenbin Aggregated Off-Chain Reserves](https://basescan.org/address/0x7b1C8C60c05913aF3Aa21BaE3B32A02Ab4f39Bd3) | 385,909.55 | 1h 17m | 1d 0h | 🟢 ok |
-| [tETH / wstETH Exchange Rate](https://basescan.org/address/0x8004571d9f54dE016fc3D448e7AEe2d70947727A) | 1.0076 | 15h 57m | 1d 0h | 🟢 ok |
-| [TETH Reserves](https://basescan.org/address/0x0b68ac37a1668DAaab1882543368E076C38C40e9) | 6,905.75 | 7h 20m | 1d 0h | 🟢 ok |
-| [TRUMP / USD](https://basescan.org/address/0x7bAfa1Af54f17cC0775a1Cf813B9fF5dED2C51E5) | 1.8828 | 24m | 1d 0h | 🟢 ok |
-| [TRY / USD](https://basescan.org/address/0x29413773e7CD4Dfd6Ad89a50887877b88a6C592C) | 0.02032664 | 47m | 1h 0m | 🟢 ok |
-| [ultraETHs / ETH Exchange Rate](https://basescan.org/address/0xbb9786e37D54251477EbC1325b04ACdCA18C2254) | 1 | 14h 2m | 1d 0h | 🟢 ok |
-| [uniBTC / BTC Exchange Rate](https://basescan.org/address/0xbC7c5023eE571e4D9C4890C90a16be05c1EEf410) | 1.016 | 20h 29m | 1d 0h | 🟢 ok |
-| [USD / ARS](https://basescan.org/address/0x9eb8a54d0590798880C665C7A6d51B95f4078Ad7) | 1,607.18 | 13h 58m | 1d 0h | 🟢 ok |
-| [USDAI / USD](https://basescan.org/address/0xFCb2C36ac8A91cE9D3c94590ED239E1f683467fe) | 1.0001 | 13h 31m | 1d 0h | 🟢 ok |
-| [USDC / USD](https://basescan.org/address/0x458138Fc0D67027E9A6778ef40a6ffC318c69061) | 0.99988595 | 7h 57m | 1d 0h | 🟢 ok |
-| [USDC / USD](https://basescan.org/address/0x7e860098F58bBFC8648a4311b374B1D669a2bc6B) | 0.99986814 | 15h 36m | 1d 0h | 🟢 ok |
-| [USDC / USD](https://basescan.org/address/0xd0Dc8c910565D94D408729D16bE5467B5d7633Ad) | 0.99987383 | 7h 57m | 1d 0h | 🟢 ok |
-| [USDe / USD](https://basescan.org/address/0x790181e93e9F4Eedb5b864860C12e4d2CffFe73B) | 0.99973218 | 14h 7m | 1d 0h | 🟢 ok |
-| [USDO Reserves](https://basescan.org/address/0x5218Ebeb96bD2bAFe21F9b143f5672552629ba79) | 14,196,820.38 | 4h 21m | 1d 0h | 🟢 ok |
-| [USDS / USD](https://basescan.org/address/0x2330aaE3bca5F05169d5f4597964D44522F62930) | 0.99989675 | 13h 59m | 1d 0h | 🟢 ok |
-| [USDT / USD](https://basescan.org/address/0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9) | 0.99981078 | 15h 34m | 1d 0h | 🟢 ok |
-| [USDT / USD](https://basescan.org/address/0xE6c6bf78308C46bad5Cae5D0ed44b36370b4B00d) | 0.99997489 | 7h 57m | 1d 0h | 🟢 ok |
-| [USDT / USD](https://basescan.org/address/0xE5fa3A4e4208858ADdf2CDb4e12651E89f1f1A70) | 0.99993513 | 7h 57m | 1d 0h | 🟢 ok |
-| [USR / USD](https://basescan.org/address/0x4a595E0a62E50A2E5eC95A70c8E612F9746af006) | 0.0839388 | 12h 52m | 1d 0h | 🟢 ok |
-| [VIRTUAL / USD](https://basescan.org/address/0xEaf310161c9eF7c813A14f8FEF6Fb271434019F7) | 0.77330361 | 5m | 1d 0h | 🟢 ok |
-| [VVV / USD](https://basescan.org/address/0xaABc55Ca55D70B034e4daA2551A224239890282F) | 26.6371 | 1h 9m | 1d 0h | 🟢 ok |
+| [AAVE / USD](https://basescan.org/address/0x65B5d02E1Fff839b8B67Fa26F8540e5f11454316) | 175.0575 | 5m | 1d 0h | 🟢 ok |
+| [AAVE / USD](https://basescan.org/address/0x3d6774EF702A10b20FCa8Ed40FC022f7E4938e07) | 175.1464 | 5m | 1d 0h | 🟢 ok |
+| [AAVE Network Emergency Count (Base)](https://basescan.org/address/0xd9c5B59A913d75AC44EB51b7E0F3f5B58816ECAc) | 0 | 14h 17m | 1d 0h | 🟢 ok |
+| [ADA / USD](https://basescan.org/address/0x5299a0e1e79BaebA0EAB96C10727DF35489aAA38) | 0.25623395 | 13m | 1d 0h | 🟢 ok |
+| [ADA / USD](https://basescan.org/address/0xf4DF589BeAbE63fEF977c73b9150BD2bdA1e346C) | 0.25580195 | 17m | 1d 0h | 🟢 ok |
+| [AERO / USD](https://basescan.org/address/0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0) | 0.78786139 | 5m | 1d 0h | 🟢 ok |
+| [AMP / USD](https://basescan.org/address/0x1688e4B274a4CC9fD398EbA6Ae4dfb6528A9D2bc) | 0.00058791 | 17m | 1d 0h | 🟢 ok |
+| [APT / USD](https://basescan.org/address/0x88a98431C25329AA422B21D147c1518b34dD36F4) | 0.76596 | 37m | 1d 0h | 🟢 ok |
+| [APXUSD / USD Exchange Rate](https://basescan.org/address/0x2B5f2D558BEb94d2FE5D97f53b564B5e17715c39) | 1 | 10h 25m | 1d 0h | 🟢 ok |
+| [ARKB Reserves](https://basescan.org/address/0xB366E8Efb9661323ff477CedF70f55F897D6cFeA) | 33,492.87 | 8h 20m | 1d 0h | 🟢 ok |
+| [ARSx Proof of Reserves](https://basescan.org/address/0x4F2fe331C8EB0fb8A84A4d893C87Cf28A36Ab093) | 4,011,066.35 | 10h 56m | 1d 0h | 🟢 ok |
+| [AUD / USD](https://basescan.org/address/0x46e51B8cA41d709928EdA9Ae43e42193E6CDf229) | 0.69804 | 16h 56m | 1d 0h | 🟢 ok |
+| [AVAX / USD](https://basescan.org/address/0xE70f2D34Fd04046aaEC26a198A35dD8F2dF5cd92) | 11.0966 | 21m | 1d 0h | 🟢 ok |
+| [AVNT / USD](https://basescan.org/address/0x50997b806B574501cC34a2a6d845e4dc1Bd9Aa8c) | 0.12436466 | 17m | 1d 0h | 🟢 ok |
+| [AXL / USD](https://basescan.org/address/0x676C4C6C31D97A5581D3204C04A8125B350E2F9D) | 0.05090895 | 50m | 1d 0h | 🟢 ok |
+| [BNB / USD](https://basescan.org/address/0x4b7836916781CAAfbb7Bd1E5FDd20ED544B453b1) | 765.006 | 3h 12m | 1d 0h | 🟢 ok |
+| [BRL / USD](https://basescan.org/address/0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394) | 0.20067184 | 57m | 1h 0m | 🟢 ok |
+| [BTC / USD](https://basescan.org/address/0x32F587986D3fb47601157c19615d568BeD0BCabc) | 84,177.8 | 12m | 20m | 🟢 ok |
+| [BTC / USD](https://basescan.org/address/0xC01502b887D09B0f329981764268fC32a94cB453) | 84,133.42 | 15m | 20m | 🟢 ok |
+| [BTC / USD](https://basescan.org/address/0x8D9e0911A532e2a3C005667B475E6F9742355f2b) | 84,134.81 | 15m | 20m | 🟢 ok |
+| [CAD / USD](https://basescan.org/address/0xA840145F87572E82519d578b1F36340368a25D5d) | 0.70299263 | 44m | 1h 0m | 🟢 ok |
+| [cbBTC / USD](https://basescan.org/address/0x07DA0E54543a844a80ABE69c8A12F22B3aA59f9D) | 84,151.69 | 10m | 20m | 🟢 ok |
+| [CBBTC / USD](https://basescan.org/address/0x10509b4053385b49145Fab2D6B1c58e96Eac5b79) | 84,051.74 | 3h 2m | 1d 0h | 🟢 ok |
+| [cbBTC Reserves](https://basescan.org/address/0x0F8E057D1D7b282EF968D26E9cB432617dF52519) | 96,095.32 | 13h 46m | 1d 0h | 🟢 ok |
+| [CBDOGE / USD](https://basescan.org/address/0x95051De9Db5Cac61682f64505006f2991dEaB3c2) | 0.08964526 | 47m | 1d 0h | 🟢 ok |
+| [CBETH / ETH](https://basescan.org/address/0x806b4Ac04501c29769051e42783cF04dCE41440b) | 1.141 | 15h 0m | 1d 0h | 🟢 ok |
+| [CBETH / USD](https://basescan.org/address/0xd7818272B9e248357d13057AAb0B417aF31E817d) | 2,983.23 | 11m | 20m | 🟢 ok |
+| [cbETH-ETH Exchange Rate](https://basescan.org/address/0x868a501e68F3D1E89CfC0D22F6b22E8dabce5F04) | 1.141 | 14h 56m | 1d 0h | 🟢 ok |
+| [CBXRP / USD](https://basescan.org/address/0xEEe1a9D5A0C36d99972C057Cb959267e88Ab9160) | 1.4658 | 1h 33m | 1d 0h | 🟢 ok |
+| [ccUSDC / USDC Exchange Rate](https://basescan.org/address/0x1Bb54D3d4edBB52B83BC89Da5B176Facc90D46bc) | 1.1387 | 6h 22m | 1d 0h | 🟢 ok |
+| [CHF / USD](https://basescan.org/address/0x3A1d6444fb6a402470098E23DaD0B7E86E14252F) | 1.2031 | 15h 59m | 1d 0h | 🟢 ok |
+| [Coinbase AAPL](https://basescan.org/address/0x787f13dEa48Db0897CbCDD985de77809D837F988) | 332.73 | 15h 15m | 1d 0h | 🟢 ok |
+| [Coinbase AMZN](https://basescan.org/address/0x06A8E4b3aBB3B7543d8396FB2B763d22820cB295) | 256.9306 | 7h 22m | 1d 0h | 🟢 ok |
+| [Coinbase COIN](https://basescan.org/address/0x408e44f504A7371a345F03a73dDC96A4b48e8aa7) | 183.93 | 1h 31m | 1d 0h | 🟢 ok |
+| [Coinbase CRCL](https://basescan.org/address/0x0231cF2635D1E17bB5c2462cc7504Ba1fBd61f33) | 82.91 | 41m | 1d 0h | 🟢 ok |
+| [Coinbase GOOGL](https://basescan.org/address/0x5bF49E0ffA937CE2FfF033c739aD7C634c4D34F2) | 347.3309 | 12h 23m | 1d 0h | 🟢 ok |
+| [Coinbase INTC](https://basescan.org/address/0xAB657C39bac0D5886250D70849e2E3E008F2EECB) | 112.98 | 1h 4m | 1d 0h | 🟢 ok |
+| [Coinbase META](https://basescan.org/address/0x6526aE6797A76123638b863AeE4dD27Ba4E4b27D) | 741.2775 | 15h 3m | 1d 0h | 🟢 ok |
+| [Coinbase MSFT](https://basescan.org/address/0xeB10A6c9aa7E537aEd766C08c35Dae35B321b18c) | 529.773 | 9h 28m | 1d 0h | 🟢 ok |
+| [Coinbase MSTR](https://basescan.org/address/0xB3cE282CD188b35DA0E38D8Bc7d58e33173D202a) | 161.67 | 2h 4m | 1d 0h | 🟢 ok |
+| [Coinbase NVDA](https://basescan.org/address/0x04689a41629776563E6822F76f2e57D148d28513) | 240.6744 | 6h 36m | 1d 0h | 🟢 ok |
+| [Coinbase SNDK](https://basescan.org/address/0x388b0dC46C0Fb05A74BeE0994fa5b02c6Fcca2eA) | 1,645.86 | 2h 44m | 1d 0h | 🟢 ok |
+| [Coinbase SPCX](https://basescan.org/address/0x6A634B235903C4ad6376892180d6fF8612e3Fa68) | 169.08 | 2h 17m | 1d 0h | 🟢 ok |
+| [Coinbase TSLA](https://basescan.org/address/0xFaf869185383a24F8cb00e27BdA6b63B9905DCb4) | 378.135 | 3h 1m | 1d 0h | 🟢 ok |
+| [Coinshift USPC Reserves](https://basescan.org/address/0xE1F1011D0043392174bF95F0725130E870AbACaa) | 26,044,689.71 | 12h 25m | 1d 0h | 🟢 ok |
+| [COMP / USD](https://basescan.org/address/0x9DDa783DE64A9d1A60c49ca761EbE528C35BA428) | 23.0561 | 46m | 1d 0h | 🟢 ok |
+| [DAI / USD](https://basescan.org/address/0x591e79239a7d679378eC8c847e5038150364C78F) | 0.99954758 | 14h 58m | 1d 0h | 🟢 ok |
+| [DEGEN / USD](https://basescan.org/address/0xE62BcE5D7CB9d16AB8b4D622538bc0A50A5799c2) | 0.00102863 | 2h 6m | 1d 0h | 🟢 ok |
+| [DOGE / USD](https://basescan.org/address/0x249d22434438889106DbB59a576a1787b115E52d) | 0.08993424 | 1h 17m | 1d 0h | 🟢 ok |
+| [DOGE / USD](https://basescan.org/address/0x304adeae3041d6D0745249FD4583e8C542De67d6) | 0.08993499 | 1h 17m | 1d 0h | 🟢 ok |
+| [ETH / USD](https://basescan.org/address/0x50015f8b17fb2C290Dde41fDc246ed0dcEE93a8b) | 2,614.22 | 12m | 20m | 🟢 ok |
+| [ETH / USD](https://basescan.org/address/0x5731Ae06077c79A3B292498940211E0aE7130bd3) | 2,614.63 | 12m | 20m | 🟢 ok |
+| [ETH / USD](https://basescan.org/address/0xa4250cE1aA15Ff4cb5E5a8655293b65694e436Ed) | 2,613.93 | 13m | 20m | 🟢 ok |
+| [EUR / USD](https://basescan.org/address/0xc91D87E81faB8f93699ECf7Ee9B44D11e1D53F0F) | 1.1233 | 17m | 1h 0m | 🟢 ok |
+| [EURC / USD](https://basescan.org/address/0x9867186e52d2F1C2c565CDA6E747101Fa56501e0) | 1.1229 | 19m | 1h 0m | 🟢 ok |
+| [EURC / USD](https://basescan.org/address/0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250) | 1.1241 | 20h 41m | 1d 0h | 🟢 ok |
+| [EURC / USD](https://basescan.org/address/0xa25cBF938Ace4b219a9d012971c7b4e898EF6c68) | 1.1238 | 19h 58m | 1d 0h | 🟢 ok |
+| [ezETH / ETH](https://basescan.org/address/0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3) | 1.0849 | 14h 25m | 1d 0h | 🟢 ok |
+| [ezETH / ETH Exchange Rate](https://basescan.org/address/0xC4300B7CF0646F0Fe4C5B2ACFCCC4dCA1346f5d8) | 1.0872 | 14h 57m | 1d 0h | 🟢 ok |
+| [EZETH / ETH Exchange Rate](https://basescan.org/address/0x442f870a32Ea74C1A4630f7Dc357F8aBd552eF37) | 1.0872 | 8h 56m | 1d 0h | 🟢 ok |
+| [FRNT Proof of Reserves](https://basescan.org/address/0xB93901c344325f89630C56458eD1dD27a76a2FCd) | 968,051.85 | 17h 8m | 1d 0h | 🟢 ok |
+| [GBP / USD](https://basescan.org/address/0xCceA6576904C118037695eB71195a5425E69Fa15) | 1.3223 | 21h 50m | 1d 0h | 🟢 ok |
+| [GHO / USD](https://basescan.org/address/0x1B5FEF61Ff9B690364359b03cC07E060b12Bd3C1) | 0.99943772 | 8h 56m | 1d 0h | 🟢 ok |
+| [GHO / USD](https://basescan.org/address/0x42868EFcee13C0E71af89c04fF7d96f5bec479b0) | 0.99944088 | 14h 39m | 1d 0h | 🟢 ok |
+| [GLDY Reserves](https://basescan.org/address/0xf488FA1B4Ac8210bf0b2d212176ca28c48F86708) | 3,350.52 | 6h 41m | 1d 0h | 🟢 ok |
+| [HOME / USD](https://basescan.org/address/0x121934C415937863d64ef93436169444633EE0d8) | 0.00563219 | 37m | 1d 0h | 🟢 ok |
+| [HYPE / USD](https://basescan.org/address/0xEdB56c5DE751eD3182DDa337f7d9ab33cf091DcA) | 90.2705 | 1h 4m | 1d 0h | 🟢 ok |
+| [iBTC Proof of Reserves](https://basescan.org/address/0x7FCED5198e43ec93Ef2179DFC70a8dcf494DcB80) | 0.01 | 15h 6m | 1d 0h | 🟢 ok |
+| [IDR / USD](https://basescan.org/address/0x05A6cF213EcC5501A11a08EBefA4A8a60313ef97) | 0.00005592 | 33m | 1h 0m | 🟢 ok |
+| [inETH / ETH Exchange Rate](https://basescan.org/address/0x83ac12dBb5Bd7Fa597ab2FFEc9F2F13DeDdFe163) | 1.0402 | 14h 52m | 1d 0h | 🟢 ok |
+| [instETH / ETH Exchange Rate](https://basescan.org/address/0x9C6BF4884Ff0c7873652F7d5142FA3b9859a526D) | 1.0909 | 14h 27m | 1d 0h | 🟢 ok |
+| [JITOSOL / USD](https://basescan.org/address/0x0ca181015d21A5ed19baFC17F2138883C2b16D54) | 154.1943 | 2h 42m | 1d 0h | 🟢 ok |
+| [JITOSOL-SOL Calculated](https://basescan.org/address/0x4b28dFaF2aCaF982524a75409Ab59DFf85942Ad7) | 1.3048 | 14h 21m | 1d 0h | 🟢 ok |
+| [LBTC / BTC](https://basescan.org/address/0x1E6c22AAA11F507af12034A5Dc4126A6A25DC8d2) | 1.0034 | 15h 2m | 1d 0h | 🟢 ok |
+| [LBTC / BTC Exchange Rate](https://basescan.org/address/0xBf4892f41c753c5E1b03e8a7B425bd2679a6C224) | 1.0044 | 8h 56m | 1d 0h | 🟢 ok |
+| [LBTC / USD](https://basescan.org/address/0x9e07546c9Fe8868855CD04B26051a26D1599E270) | 84,407.71 | 3h 22m | 1d 0h | 🟢 ok |
+| [LINK / ETH](https://basescan.org/address/0xc5E65227fe3385B88468F9A01600017cDC9F3A12) | 0.00520044 | 1h 1m | 1d 0h | 🟢 ok |
+| [LINK / USD](https://basescan.org/address/0x17CAb8FE31E32f08326e5E27412894e49B0f9D65) | 13.5883 | 1h 5m | 1d 0h | 🟢 ok |
+| [LTC / USD](https://basescan.org/address/0xa03A14F790eb8F5Ff73227278a3bb6eDE57Dc8c9) | 67.3577 | 48m | 1d 0h | 🟢 ok |
+| [MAMO / USD](https://basescan.org/address/0xeF7541b388a77C1709a3d44BfBfC5c1ED3F0Ac94) | 0.00770369 | 2h 47m | 1d 0h | 🟢 ok |
+| [MAVIA / USD](https://basescan.org/address/0x979447581b39caCA33EF0CA8208592393D16cc13) | 0.03140076 | 50m | 1d 0h | 🟢 ok |
+| [MEW / USD](https://basescan.org/address/0x9FB8b5A4b3FE655564f0c76616ae79DE90Cc7382) | 0.0005005 | 1h 17m | 1d 0h | 🟢 ok |
+| [MLN / USD](https://basescan.org/address/0x122b5334A8b55861dBc6729c294451471FbF318D) | 1.5101 | 1m | 1d 0h | 🟢 ok |
+| [MOG / USD](https://basescan.org/address/0x4aeb6D15769EaD32D0c5Be2940F40c7CFf53801d) | 0.00000012 | 1m | 1d 0h | 🟢 ok |
+| [MORPHO / USD](https://basescan.org/address/0xe95e258bb6615d47515Fc849f8542dA651f12bF6) | 2.5665 | 38m | 1d 0h | 🟢 ok |
+| [MXN / USD](https://basescan.org/address/0xb87Eba1aF247453930B71B87e948049882B1A95e) | 0.05564335 | 17h 40m | 1d 0h | 🟢 ok |
+| [MXN / USD](https://basescan.org/address/0x9e8Ee77c76d4fa41306056D1C3196AF5da1600bd) | 0.05550186 | 20m | 1h 0m | 🟢 ok |
+| [NGN / USD](https://basescan.org/address/0xdfbb5Cbc88E382de007bfe6CE99C388176ED80aD) | 0.00075414 | 2m | 1h 0m | 🟢 ok |
+| [NZD / USD](https://basescan.org/address/0x06bdFe07E71C476157FC025d3cCD4BBe08e83EF9) | 0.5607 | 1h 4m | 1d 0h | 🟢 ok |
+| [OP / USD](https://basescan.org/address/0x3E3A6bD129A63564FE7abde85FA67c3950569060) | 0.12177556 | 1h 22m | 1d 0h | 🟢 ok |
+| [OUSD / USD](https://basescan.org/address/0xa718561C4592217b9fa301ADdD183FE4F347E096) | 0.99992868 | 14h 23m | 1d 0h | 🟢 ok |
+| [PAXG / USD](https://basescan.org/address/0xd49c546D32D5472a7F7704EC183128512a1B2fcb) | 4,143.88 | 2h 6m | 1d 0h | 🟢 ok |
+| [PCE Price Index — Level](https://basescan.org/address/0x18A3fcA54FaC5B05837205bA4b823fc56191F793) | 131.579 | 6d 16h | 35d 0h | 🟢 ok |
+| [PCE Price Index — Percent Change (Annual Rate)](https://basescan.org/address/0x2a18E2d46Cb067b69e0759dB39b16597fC42D962) | 5 | 6d 16h | 35d 0h | 🟢 ok |
+| [PEPE / USD](https://basescan.org/address/0xB48ac6409C0c3718b956089b0fFE295A10ACDdad) | 0.00000409 | 1h 6m | 1d 0h | 🟢 ok |
+| [PHP / USD](https://basescan.org/address/0x0396000dc82bfAEe746A9Ac6dC69dAd3223Ca9c6) | 0.01592635 | 21h 29m | 1d 0h | 🟢 ok |
+| [POL / USD](https://basescan.org/address/0x5E988c11a4f92155C30D9fb69Ed75597f712B113) | 0.10308543 | 1h 20m | 1d 0h | 🟢 ok |
+| [pufETH / ETH Exchange Rate](https://basescan.org/address/0x69a1d14a4e58e97EDE8337DE61eEB2e4a55886E0) | 1.0743 | 14h 25m | 1d 0h | 🟢 ok |
+| [RDNT / USD](https://basescan.org/address/0xEf2E24ba6def99B5e0b71F6CDeaF294b02163094) | 0.00061273 | 1s | 1d 0h | 🟢 ok |
+| [Real Final Sales to Private Domestic Purchasers — Level](https://basescan.org/address/0x65623109aA4561AD3cfF503542083548CeD7e085) | 21,432.08 | 6d 16h | 35d 0h | 🟢 ok |
+| [Real Final Sales to Private Domestic Purchasers — Percent Change (Annual Rate)](https://basescan.org/address/0xe2b3688371130f333443428Cf03f27Ce0378F9dC) | 4.6 | 6d 16h | 35d 0h | 🟢 ok |
+| [Real GDP — Level](https://basescan.org/address/0x0df397aFE00085C138a99eFB39C498e08eB95aD1) | 24,408.01 | 6d 16h | 35d 0h | 🟢 ok |
+| [Real GDP — Percent Change (Annual Rate)](https://basescan.org/address/0xe0eda54fC1362C0d7d0ff855E4fCEA79916Fe094) | 2.2 | 6d 16h | 35d 0h | 🟢 ok |
+| [RETH / ETH](https://basescan.org/address/0xf397bF97280B488cA19ee3093E81C0a77F02e9a5) | 1.1699 | 19h 31m | 1d 0h | 🟢 ok |
+| [rETH / ETH Exchange Rate](https://basescan.org/address/0x1E6A29666288a310326B37d823Fe4Ea3937424D2) | 1.1732 | 23h 3m | 1d 0h | 🟢 ok |
+| [RLUSD / USD](https://basescan.org/address/0x900E653c6b25eCf1eF43525fcCC5263E654085cc) | 0.99995622 | 14h 45m | 1d 0h | 🟢 ok |
+| [RSETH / ETH](https://basescan.org/address/0xd7221b10FBBC1e1ba95Fd0B4D031C15f7F365296) | 1.079 | 19h 15m | 1d 0h | 🟢 ok |
+| [rsETH / ETH Exchange Rate](https://basescan.org/address/0x99DAf760d2CFB770cc17e883dF45454FE421616b) | 1.0816 | 14h 38m | 1d 0h | 🟢 ok |
+| [rsETH / ETH Exchange Rate](https://basescan.org/address/0xAc0a5bB171350536207245afB0EB269b8195501B) | 1.0816 | 8h 56m | 1d 0h | 🟢 ok |
+| [RSR / USD](https://basescan.org/address/0xAa98aE504658766Dfe11F31c5D95a0bdcABDe0b1) | 0.00166428 | 3h 22m | 1d 0h | 🟢 ok |
+| [rswETH / ETH Exchange Rate](https://basescan.org/address/0x97b770B0200CCe161907a9cbe0C6B177679f8F7C) | 1.0822 | 15h 4m | 1d 0h | 🟢 ok |
+| [rwaUSD NAV](https://basescan.org/address/0xD8B5397eDE8B83553BdFCCAA496dd771c5336D37) | 1 | 12h 56m | 1d 0h | 🟢 ok |
+| [SAVUSD / AVUSD Exchange Rate](https://basescan.org/address/0xAc5287ad4B1629a88964085FDD1F7d45f8032D33) | 1.2066 | 14h 8m | 1d 0h | 🟢 ok |
+| [sfrxETH-frxETH Exchange Rate](https://basescan.org/address/0x1Eba1d6941088c8FCE2CbcaC80754C77871aD093) | 1.1711 | 14h 43m | 1d 0h | 🟢 ok |
+| [SGD / USD](https://basescan.org/address/0x81575495532fB311Efc5C993B612564274F0949b) | 0.78255833 | 15h 9m | 1d 0h | 🟢 ok |
+| [SHIB / USD](https://basescan.org/address/0xC8D5D660bb585b68fa0263EeD7B4224a5FC99669) | 0.00000552 | 1h 16m | 1d 0h | 🟢 ok |
+| [SNX / USD](https://basescan.org/address/0xe3971Ed6F1A5903321479Ef3148B5950c0612075) | 0.242381 | 52m | 1d 0h | 🟢 ok |
+| [SOL / USD](https://basescan.org/address/0xDa5Fd22F9382e57534fEdA4fF544878aa1cf401f) | 118.476 | 2h 20m | 1d 0h | 🟢 ok |
+| [SOL / USD](https://basescan.org/address/0x5D424D5a664a9f3c820F422297077d49877F9C93) | 118.152 | 3h 3m | 1d 0h | 🟢 ok |
+| [SolvBTC.BBN / SolvBTC Exchange Rate](https://basescan.org/address/0x67283A47E470afbCcc4aC74ccC32401a81027691) | 1 | 14h 27m | 1d 0h | 🟢 ok |
+| [STETH / ETH](https://basescan.org/address/0xf586d0728a47229e747d824a939000Cf21dEF5A0) | 0.9996238 | 15h 1m | 1d 0h | 🟢 ok |
+| [STG / USD](https://basescan.org/address/0x63Af8341b62E683B87bB540896bF283D96B4D385) | 0.188893 | 2h 6m | 1d 0h | 🟢 ok |
+| [SUI / USD](https://basescan.org/address/0x491a921c41d6a97C57426E0c0108a231cd6E5f60) | 1.1384 | 1h 17m | 1d 0h | 🟢 ok |
+| [SUPEROETHB / ETH](https://basescan.org/address/0x39C6E14CdE46D4FFD9F04Ff159e7ce8eC20E10B4) | 0.99933961 | 14h 41m | 1d 0h | 🟢 ok |
+| [SUSDAI / USDAI Exchange Rate](https://basescan.org/address/0x1a42ec779Ed3e5249d9b83Ad6B51492953080Ad9) | 1.1171 | 11h 26m | 1d 0h | 🟢 ok |
+| [sUSDe / USD](https://basescan.org/address/0x79cf4a31B29D69191f0b6E97916eB93FEB81E533) | 1.2513 | 14h 23m | 1d 0h | 🟢 ok |
+| [sUSDe / USDe Exchange Rate](https://basescan.org/address/0xdEd37FC1400B8022968441356f771639ad1B23aA) | 1.2517 | 14h 58m | 1d 0h | 🟢 ok |
+| [sUSDS / USDS Exchange Rate](https://basescan.org/address/0x906B24a339b848369B24Dc9Ed368b947fB9693bf) | 1.1119 | 14h 37m | 1d 0h | 🟢 ok |
+| [sUSDz / USDz Exchange Rate](https://basescan.org/address/0xD89c7fFB39C44b17EAecd8717a75A36c19C07582) | 1.2853 | 15h 5m | 1d 0h | 🟢 ok |
+| [swBTC / WBTC Exchange Rate](https://basescan.org/address/0xBD867487712ADeC5A59b9Ae475Ee942f652B4C91) | 1 | 14h 26m | 1d 0h | 🟢 ok |
+| [syrupUSDC-USDC Exchange Rate](https://basescan.org/address/0x311D3A3faA1d5939c681E33C2CDAc041FF388EB2) | 1.1867 | 14h 32m | 1d 0h | 🟢 ok |
+| [TBTC / USD](https://basescan.org/address/0x6D75BFB5A5885f841b132198C9f0bE8c872057BF) | 84,111.65 | 1h 34m | 1d 0h | 🟢 ok |
+| [Tenbin Aggregated Off-Chain Reserves](https://basescan.org/address/0x7b1C8C60c05913aF3Aa21BaE3B32A02Ab4f39Bd3) | 385,909.55 | 2h 17m | 1d 0h | 🟢 ok |
+| [tETH / wstETH Exchange Rate](https://basescan.org/address/0x8004571d9f54dE016fc3D448e7AEe2d70947727A) | 1.0076 | 16h 57m | 1d 0h | 🟢 ok |
+| [TETH Reserves](https://basescan.org/address/0x0b68ac37a1668DAaab1882543368E076C38C40e9) | 6,905.75 | 8h 19m | 1d 0h | 🟢 ok |
+| [TRUMP / USD](https://basescan.org/address/0x7bAfa1Af54f17cC0775a1Cf813B9fF5dED2C51E5) | 1.8842 | 21m | 1d 0h | 🟢 ok |
+| [TRY / USD](https://basescan.org/address/0x29413773e7CD4Dfd6Ad89a50887877b88a6C592C) | 0.02032718 | 46m | 1h 0m | 🟢 ok |
+| [ultraETHs / ETH Exchange Rate](https://basescan.org/address/0xbb9786e37D54251477EbC1325b04ACdCA18C2254) | 1 | 15h 2m | 1d 0h | 🟢 ok |
+| [uniBTC / BTC Exchange Rate](https://basescan.org/address/0xbC7c5023eE571e4D9C4890C90a16be05c1EEf410) | 1.016 | 21h 29m | 1d 0h | 🟢 ok |
+| [USD / ARS](https://basescan.org/address/0x9eb8a54d0590798880C665C7A6d51B95f4078Ad7) | 1,607.18 | 14h 57m | 1d 0h | 🟢 ok |
+| [USDAI / USD](https://basescan.org/address/0xFCb2C36ac8A91cE9D3c94590ED239E1f683467fe) | 1.0001 | 14h 31m | 1d 0h | 🟢 ok |
+| [USDC / USD](https://basescan.org/address/0x458138Fc0D67027E9A6778ef40a6ffC318c69061) | 0.99988595 | 8h 56m | 1d 0h | 🟢 ok |
+| [USDC / USD](https://basescan.org/address/0x7e860098F58bBFC8648a4311b374B1D669a2bc6B) | 0.99986814 | 16h 35m | 1d 0h | 🟢 ok |
+| [USDC / USD](https://basescan.org/address/0xd0Dc8c910565D94D408729D16bE5467B5d7633Ad) | 0.99987383 | 8h 56m | 1d 0h | 🟢 ok |
+| [USDe / USD](https://basescan.org/address/0x790181e93e9F4Eedb5b864860C12e4d2CffFe73B) | 0.99973218 | 15h 6m | 1d 0h | 🟢 ok |
+| [USDO Reserves](https://basescan.org/address/0x5218Ebeb96bD2bAFe21F9b143f5672552629ba79) | 14,196,820.38 | 5h 21m | 1d 0h | 🟢 ok |
+| [USDS / USD](https://basescan.org/address/0x2330aaE3bca5F05169d5f4597964D44522F62930) | 0.99989675 | 14h 58m | 1d 0h | 🟢 ok |
+| [USDT / USD](https://basescan.org/address/0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9) | 0.99981078 | 16h 34m | 1d 0h | 🟢 ok |
+| [USDT / USD](https://basescan.org/address/0xE6c6bf78308C46bad5Cae5D0ed44b36370b4B00d) | 0.99997489 | 8h 56m | 1d 0h | 🟢 ok |
+| [USDT / USD](https://basescan.org/address/0xE5fa3A4e4208858ADdf2CDb4e12651E89f1f1A70) | 0.99993513 | 8h 56m | 1d 0h | 🟢 ok |
+| [USR / USD](https://basescan.org/address/0x4a595E0a62E50A2E5eC95A70c8E612F9746af006) | 0.0839388 | 13h 52m | 1d 0h | 🟢 ok |
+| [VIRTUAL / USD](https://basescan.org/address/0xEaf310161c9eF7c813A14f8FEF6Fb271434019F7) | 0.77738948 | 1m | 1d 0h | 🟢 ok |
+| [VVV / USD](https://basescan.org/address/0xaABc55Ca55D70B034e4daA2551A224239890282F) | 26.7884 | 21m | 1d 0h | 🟢 ok |
 | [vyUSD-USD Exchange Rate](https://basescan.org/address/0x99C098FA069B120dd81E56c0f2178093cc7a851f) | 0.923628 | 41m | 1h 0m | 🟢 ok |
-| [WBTC / USD](https://basescan.org/address/0xCCADC697c55bbB68dc5bCdf8d3CBe83CdD4E071E) | 84,027.14 | 6m | 20m | 🟢 ok |
-| [weETH / eETH Exchange Rate](https://basescan.org/address/0x35e9D7001819Ea3B39Da906aE6b06A62cfe2c181) | 1.1052 | 13h 49m | 1d 0h | 🟢 ok |
-| [WEETH / EETH Exchange Rate](https://basescan.org/address/0xd71cdcAaea1Ce61146CD7257BE65412007a62819) | 1.1052 | 7h 56m | 1d 0h | 🟢 ok |
-| [weETH / ETH](https://basescan.org/address/0xFC1415403EbB0c693f9a7844b92aD2Ff24775C65) | 1.1046 | 13h 27m | 1d 0h | 🟢 ok |
-| [WELL / USD](https://basescan.org/address/0xc15d9944dAefE2dB03e53bef8DDA25a56832C5fe) | 0.00235512 | 27m | 1d 0h | 🟢 ok |
-| [wOETH / OETH Exchange Rate](https://basescan.org/address/0xe96EB1EDa83d18cbac224233319FA5071464e1b9) | 1.1702 | 13h 47m | 1d 0h | 🟢 ok |
-| [wrsETH-ETH Exchange Rate](https://basescan.org/address/0xe8dD07CCf5BC4922424140E44Eb970F5950725ef) | 1.0816 | 13h 40m | 1d 0h | 🟢 ok |
-| [WSTETH / ETH](https://basescan.org/address/0x43a5C292A453A3bF3606fa856197f09D7B74251a) | 1.2454 | 14h 1m | 1d 0h | 🟢 ok |
-| [WSTETH / STETH Exchange Rate](https://basescan.org/address/0xfd14a390149e23F972AbC9B7E31d3B1fdf508B38) | 1.2457 | 7h 57m | 1d 0h | 🟢 ok |
-| [wstETH-stETH Exchange Rate](https://basescan.org/address/0xB88BAc61a4Ca37C43a3725912B1f472c9A5bc061) | 1.2457 | 16h 1m | 1d 0h | 🟢 ok |
-| [wstUSR / stUSR Exchange Rate](https://basescan.org/address/0x0594c1a01375c1151c2ca78BE4870836EbFA9846) | 1.133 | 13h 35m | 1d 0h | 🟢 ok |
-| [XAG / USD](https://basescan.org/address/0x7dBC779B2A6F9B9AaB83a2dED78A2F7E9e203f0c) | 60.993 | 2h 30m | 1d 0h | 🟢 ok |
-| [XAU / USD](https://basescan.org/address/0x5213eBB69743b85644dbB6E25cdF994aFBb8cF31) | 4,142.48 | 2h 17m | 1d 0h | 🟢 ok |
-| [XDC / USD](https://basescan.org/address/0x237A94A589DD38DF7e50CeFDa0b8916a54d01ecC) | 0.03326679 | 1h 2m | 4h 0m | 🟢 ok |
-| [XGLD / XAUT Exchange Rate](https://basescan.org/address/0xDbc71D0ca5F37dB7A9a45E5c0C46FfFe5E7C24B5) | 1.0094 | 9h 2m | 1d 0h | 🟢 ok |
-| [XRP / USD](https://basescan.org/address/0xF35059FB4471333F81E4F39fA40260FF53Dc340b) | 1.4637 | 1h 20m | 1d 0h | 🟢 ok |
-| [XRP / USD](https://basescan.org/address/0x281F1D237Fa1382d96f7A4fd190500D182042e3b) | 1.4611 | 1h 48m | 1d 0h | 🟢 ok |
-| [xSolvBTC NAV](https://basescan.org/address/0x17738F7dacFc1De7d06f22cC52211EBf68744dBA) | 1 | 13h 40m | 1d 0h | 🟢 ok |
-| [YBTC-BTC Exchange Rate](https://basescan.org/address/0x95Eba7bE2f755a298984bd714822994f1d4B6313) | 1.0115 | 13h 45m | 1d 0h | 🟢 ok |
-| [YETH-ETH Exchange Rate](https://basescan.org/address/0xaE95742Cf839529798Bcd1610c6E0AFEBA0cBC03) | 0.94664621 | 13h 57m | 1d 0h | 🟢 ok |
-| [YFI / USD](https://basescan.org/address/0xD40e758b5eC80820B68DFC302fc5Ce1239083548) | 2,426.82 | 3m | 1d 0h | 🟢 ok |
-| [ynETH / ETH Exchange Rate](https://basescan.org/address/0xb4482096e3cdE116C15fC0D700a73a58FEdeB8c0) | 1.081 | 7h 26m | 1d 0h | 🟢 ok |
-| [ynETHx / ETH Exchange Rate](https://basescan.org/address/0x4e7dB2f9a28348AB48a968dd4217D565D1F15Ba4) | 1.0977 | 9h 52m | 1d 0h | 🟢 ok |
-| [yUSD / USD Exchange Rate](https://basescan.org/address/0xc1a849217F3BaB97F1a46b990e369D6705B4be96) | 0.998454 | 55m | 1h 0m | 🟢 ok |
-| [ZAR / USD](https://basescan.org/address/0x2ecc8A8B370fC6a217166b2782a35339bEBEe98B) | 0.06034238 | 20m | 1h 0m | 🟢 ok |
-| [ZEC / USD](https://basescan.org/address/0x69e5BC4988a9AF30Ec827C5609c0D41028446ec0) | 1,317.24 | 5m | 1d 0h | 🟢 ok |
-| [ZRO / USD](https://basescan.org/address/0xdc31a4CCfCA039BeC6222e20BE7770E12581bfEB) | 2.1603 | 3m | 1d 0h | 🟢 ok |
+| [WBTC / USD](https://basescan.org/address/0xCCADC697c55bbB68dc5bCdf8d3CBe83CdD4E071E) | 84,092.91 | 4m | 20m | 🟢 ok |
+| [weETH / eETH Exchange Rate](https://basescan.org/address/0x35e9D7001819Ea3B39Da906aE6b06A62cfe2c181) | 1.1052 | 14h 48m | 1d 0h | 🟢 ok |
+| [WEETH / EETH Exchange Rate](https://basescan.org/address/0xd71cdcAaea1Ce61146CD7257BE65412007a62819) | 1.1052 | 8h 56m | 1d 0h | 🟢 ok |
+| [weETH / ETH](https://basescan.org/address/0xFC1415403EbB0c693f9a7844b92aD2Ff24775C65) | 1.1046 | 14h 27m | 1d 0h | 🟢 ok |
+| [WELL / USD](https://basescan.org/address/0xc15d9944dAefE2dB03e53bef8DDA25a56832C5fe) | 0.00241318 | 53s | 1d 0h | 🟢 ok |
+| [wOETH / OETH Exchange Rate](https://basescan.org/address/0xe96EB1EDa83d18cbac224233319FA5071464e1b9) | 1.1702 | 14h 47m | 1d 0h | 🟢 ok |
+| [wrsETH-ETH Exchange Rate](https://basescan.org/address/0xe8dD07CCf5BC4922424140E44Eb970F5950725ef) | 1.0816 | 14h 39m | 1d 0h | 🟢 ok |
+| [WSTETH / ETH](https://basescan.org/address/0x43a5C292A453A3bF3606fa856197f09D7B74251a) | 1.2454 | 15h 1m | 1d 0h | 🟢 ok |
+| [WSTETH / STETH Exchange Rate](https://basescan.org/address/0xfd14a390149e23F972AbC9B7E31d3B1fdf508B38) | 1.2457 | 8h 56m | 1d 0h | 🟢 ok |
+| [wstETH-stETH Exchange Rate](https://basescan.org/address/0xB88BAc61a4Ca37C43a3725912B1f472c9A5bc061) | 1.2457 | 17h 0m | 1d 0h | 🟢 ok |
+| [wstUSR / stUSR Exchange Rate](https://basescan.org/address/0x0594c1a01375c1151c2ca78BE4870836EbFA9846) | 1.133 | 14h 34m | 1d 0h | 🟢 ok |
+| [XAG / USD](https://basescan.org/address/0x7dBC779B2A6F9B9AaB83a2dED78A2F7E9e203f0c) | 60.688 | 22m | 1d 0h | 🟢 ok |
+| [XAU / USD](https://basescan.org/address/0x5213eBB69743b85644dbB6E25cdF994aFBb8cF31) | 4,142.48 | 3h 16m | 1d 0h | 🟢 ok |
+| [XDC / USD](https://basescan.org/address/0x237A94A589DD38DF7e50CeFDa0b8916a54d01ecC) | 0.03365247 | 5m | 4h 0m | 🟢 ok |
+| [XGLD / XAUT Exchange Rate](https://basescan.org/address/0xDbc71D0ca5F37dB7A9a45E5c0C46FfFe5E7C24B5) | 1.0094 | 10h 2m | 1d 0h | 🟢 ok |
+| [XRP / USD](https://basescan.org/address/0xF35059FB4471333F81E4F39fA40260FF53Dc340b) | 1.4637 | 2h 20m | 1d 0h | 🟢 ok |
+| [XRP / USD](https://basescan.org/address/0x281F1D237Fa1382d96f7A4fd190500D182042e3b) | 1.4685 | 13m | 1d 0h | 🟢 ok |
+| [xSolvBTC NAV](https://basescan.org/address/0x17738F7dacFc1De7d06f22cC52211EBf68744dBA) | 1 | 14h 39m | 1d 0h | 🟢 ok |
+| [YBTC-BTC Exchange Rate](https://basescan.org/address/0x95Eba7bE2f755a298984bd714822994f1d4B6313) | 1.0115 | 14h 45m | 1d 0h | 🟢 ok |
+| [YETH-ETH Exchange Rate](https://basescan.org/address/0xaE95742Cf839529798Bcd1610c6E0AFEBA0cBC03) | 0.94664621 | 14h 57m | 1d 0h | 🟢 ok |
+| [YFI / USD](https://basescan.org/address/0xD40e758b5eC80820B68DFC302fc5Ce1239083548) | 2,440.69 | 21m | 1d 0h | 🟢 ok |
+| [ynETH / ETH Exchange Rate](https://basescan.org/address/0xb4482096e3cdE116C15fC0D700a73a58FEdeB8c0) | 1.081 | 8h 25m | 1d 0h | 🟢 ok |
+| [ynETHx / ETH Exchange Rate](https://basescan.org/address/0x4e7dB2f9a28348AB48a968dd4217D565D1F15Ba4) | 1.0977 | 10h 52m | 1d 0h | 🟢 ok |
+| [yUSD / USD Exchange Rate](https://basescan.org/address/0xc1a849217F3BaB97F1a46b990e369D6705B4be96) | 0.998454 | 54m | 1h 0m | 🟢 ok |
+| [ZAR / USD](https://basescan.org/address/0x2ecc8A8B370fC6a217166b2782a35339bEBEe98B) | 0.06030039 | 19m | 1h 0m | 🟢 ok |
+| [ZEC / USD](https://basescan.org/address/0x69e5BC4988a9AF30Ec827C5609c0D41028446ec0) | 1,317.24 | 1h 4m | 1d 0h | 🟢 ok |
+| [ZRO / USD](https://basescan.org/address/0xdc31a4CCfCA039BeC6222e20BE7770E12581bfEB) | 2.1895 | 3m | 1d 0h | 🟢 ok |
 
 </details>
 <!-- report:end -->
