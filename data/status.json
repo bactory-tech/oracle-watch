@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-12T18:27:14.000Z",
-  "block": "52520143",
+  "checkedAt": "2026-10-12T19:22:19.000Z",
+  "block": "52521796",
   "sequencer": {
     "up": true,
     "since": 1782491507
@@ -19,7 +19,7 @@
       "address": "0x65B5d02E1Fff839b8B67Fa26F8540e5f11454316",
       "status": "ok",
       "value": 161.03044223,
-      "ageSeconds": 3537,
+      "ageSeconds": 6842,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -28,7 +28,7 @@
       "address": "0x3d6774EF702A10b20FCa8Ed40FC022f7E4938e07",
       "status": "ok",
       "value": 160.90907,
-      "ageSeconds": 3521,
+      "ageSeconds": 6826,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -37,7 +37,7 @@
       "address": "0xd9c5B59A913d75AC44EB51b7E0F3f5B58816ECAc",
       "status": "ok",
       "value": 0,
-      "ageSeconds": 11935,
+      "ageSeconds": 15240,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -46,7 +46,7 @@
       "address": "0x5299a0e1e79BaebA0EAB96C10727DF35489aAA38",
       "status": "ok",
       "value": 0.2414369,
-      "ageSeconds": 605,
+      "ageSeconds": 3910,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -55,7 +55,7 @@
       "address": "0xf4DF589BeAbE63fEF977c73b9150BD2bdA1e346C",
       "status": "ok",
       "value": 0.24137586,
-      "ageSeconds": 589,
+      "ageSeconds": 3894,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -63,8 +63,8 @@
       "name": "AERO / USD",
       "address": "0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0",
       "status": "ok",
-      "value": 0.89748416,
-      "ageSeconds": 153,
+      "value": 0.89290602,
+      "ageSeconds": 1656,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -73,7 +73,7 @@
       "address": "0x1688e4B274a4CC9fD398EbA6Ae4dfb6528A9D2bc",
       "status": "ok",
       "value": 0.00061994,
-      "ageSeconds": 2925,
+      "ageSeconds": 6230,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -81,8 +81,8 @@
       "name": "APT / USD",
       "address": "0x88a98431C25329AA422B21D147c1518b34dD36F4",
       "status": "ok",
-      "value": 0.83376663,
-      "ageSeconds": 199,
+      "value": 0.82835,
+      "ageSeconds": 474,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -91,7 +91,7 @@
       "address": "0x2B5f2D558BEb94d2FE5D97f53b564B5e17715c39",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 84483,
+      "ageSeconds": 1368,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -100,7 +100,7 @@
       "address": "0xB366E8Efb9661323ff477CedF70f55F897D6cFeA",
       "status": "ok",
       "value": 32024.42903581,
-      "ageSeconds": 76931,
+      "ageSeconds": 80236,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -109,7 +109,7 @@
       "address": "0x4F2fe331C8EB0fb8A84A4d893C87Cf28A36Ab093",
       "status": "ok",
       "value": 2012066.35,
-      "ageSeconds": 14589,
+      "ageSeconds": 17894,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -118,7 +118,7 @@
       "address": "0x46e51B8cA41d709928EdA9Ae43e42193E6CDf229",
       "status": "ok",
       "value": 0.69776,
-      "ageSeconds": 48235,
+      "ageSeconds": 51540,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -126,8 +126,8 @@
       "name": "AVAX / USD",
       "address": "0xE70f2D34Fd04046aaEC26a198A35dD8F2dF5cd92",
       "status": "ok",
-      "value": 10.38051,
-      "ageSeconds": 149,
+      "value": 10.38636,
+      "ageSeconds": 1174,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -135,8 +135,8 @@
       "name": "AVNT / USD",
       "address": "0x50997b806B574501cC34a2a6d845e4dc1Bd9Aa8c",
       "status": "ok",
-      "value": 0.133991,
-      "ageSeconds": 1209,
+      "value": 0.13390715,
+      "ageSeconds": 1812,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -144,8 +144,8 @@
       "name": "AXL / USD",
       "address": "0x676C4C6C31D97A5581D3204C04A8125B350E2F9D",
       "status": "ok",
-      "value": 0.05934242,
-      "ageSeconds": 1051,
+      "value": 0.05970649,
+      "ageSeconds": 274,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -154,7 +154,7 @@
       "address": "0x4b7836916781CAAfbb7Bd1E5FDd20ED544B453b1",
       "status": "ok",
       "value": 741.99381,
-      "ageSeconds": 2949,
+      "ageSeconds": 6254,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -162,8 +162,8 @@
       "name": "BRL / USD",
       "address": "0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394",
       "status": "ok",
-      "value": 0.20052135,
-      "ageSeconds": 485,
+      "value": 0.20051331,
+      "ageSeconds": 160,
       "heartbeat": 3600,
       "marketHours": "Forex_BRL"
     },
@@ -171,8 +171,8 @@
       "name": "BTC / USD",
       "address": "0x32F587986D3fb47601157c19615d568BeD0BCabc",
       "status": "ok",
-      "value": 82403.29312049,
-      "ageSeconds": 1075,
+      "value": 82343.22,
+      "ageSeconds": 28,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -180,8 +180,8 @@
       "name": "BTC / USD",
       "address": "0xC01502b887D09B0f329981764268fC32a94cB453",
       "status": "ok",
-      "value": 82399.2,
-      "ageSeconds": 1029,
+      "value": 82300.93741019,
+      "ageSeconds": 732,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -189,8 +189,8 @@
       "name": "BTC / USD",
       "address": "0x8D9e0911A532e2a3C005667B475E6F9742355f2b",
       "status": "ok",
-      "value": 82399.2,
-      "ageSeconds": 1029,
+      "value": 82299.60440425,
+      "ageSeconds": 732,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -198,8 +198,8 @@
       "name": "CAD / USD",
       "address": "0xA840145F87572E82519d578b1F36340368a25D5d",
       "status": "ok",
-      "value": 0.70010361,
-      "ageSeconds": 3259,
+      "value": 0.699937,
+      "ageSeconds": 2962,
       "heartbeat": 3600,
       "marketHours": "Forex"
     },
@@ -207,8 +207,8 @@
       "name": "cbBTC / USD",
       "address": "0x07DA0E54543a844a80ABE69c8A12F22B3aA59f9D",
       "status": "ok",
-      "value": 82404.38885136,
-      "ageSeconds": 641,
+      "value": 82264.24193761,
+      "ageSeconds": 254,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -217,7 +217,7 @@
       "address": "0x10509b4053385b49145Fab2D6B1c58e96Eac5b79",
       "status": "ok",
       "value": 82618.93154698976,
-      "ageSeconds": 20965,
+      "ageSeconds": 24270,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -226,7 +226,7 @@
       "address": "0x0F8E057D1D7b282EF968D26E9cB432617dF52519",
       "status": "ok",
       "value": 95082.61334071,
-      "ageSeconds": 13951,
+      "ageSeconds": 17256,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -235,7 +235,7 @@
       "address": "0x95051De9Db5Cac61682f64505006f2991dEaB3c2",
       "status": "ok",
       "value": 0.08480146,
-      "ageSeconds": 5421,
+      "ageSeconds": 8726,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -244,7 +244,7 @@
       "address": "0x806b4Ac04501c29769051e42783cF04dCE41440b",
       "status": "ok",
       "value": 1.141597526185892,
-      "ageSeconds": 14517,
+      "ageSeconds": 17822,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -252,8 +252,8 @@
       "name": "CBETH / USD",
       "address": "0xd7818272B9e248357d13057AAb0B417aF31E817d",
       "status": "ok",
-      "value": 2864.36513,
-      "ageSeconds": 1075,
+      "value": 2863.08995411,
+      "ageSeconds": 478,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -262,7 +262,7 @@
       "address": "0x868a501e68F3D1E89CfC0D22F6b22E8dabce5F04",
       "status": "ok",
       "value": 1.1414413984439098,
-      "ageSeconds": 14291,
+      "ageSeconds": 17596,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -271,7 +271,7 @@
       "address": "0xEEe1a9D5A0C36d99972C057Cb959267e88Ab9160",
       "status": "ok",
       "value": 1.35768317,
-      "ageSeconds": 5361,
+      "ageSeconds": 8666,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -280,7 +280,7 @@
       "address": "0x1Bb54D3d4edBB52B83BC89Da5B176Facc90D46bc",
       "status": "ok",
       "value": 1.140125,
-      "ageSeconds": 69871,
+      "ageSeconds": 73176,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -289,7 +289,7 @@
       "address": "0x3A1d6444fb6a402470098E23DaD0B7E86E14252F",
       "status": "ok",
       "value": 1.20046578,
-      "ageSeconds": 18097,
+      "ageSeconds": 21402,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -298,7 +298,7 @@
       "address": "0x787f13dEa48Db0897CbCDD985de77809D837F988",
       "status": "ok",
       "value": 340.745,
-      "ageSeconds": 13467,
+      "ageSeconds": 16772,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -307,7 +307,7 @@
       "address": "0x06A8E4b3aBB3B7543d8396FB2B763d22820cB295",
       "status": "ok",
       "value": 259.32,
-      "ageSeconds": 5463,
+      "ageSeconds": 8768,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -315,8 +315,8 @@
       "name": "Coinbase COIN",
       "address": "0x408e44f504A7371a345F03a73dDC96A4b48e8aa7",
       "status": "ok",
-      "value": 178.77305,
-      "ageSeconds": 2083,
+      "value": 177.8359,
+      "ageSeconds": 1906,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -324,8 +324,8 @@
       "name": "Coinbase CRCL",
       "address": "0x0231cF2635D1E17bB5c2462cc7504Ba1fBd61f33",
       "status": "ok",
-      "value": 83.28,
-      "ageSeconds": 4627,
+      "value": 82.445,
+      "ageSeconds": 1388,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -334,7 +334,7 @@
       "address": "0x5bF49E0ffA937CE2FfF033c739aD7C634c4D34F2",
       "status": "ok",
       "value": 351.73559605,
-      "ageSeconds": 4869,
+      "ageSeconds": 8174,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -343,7 +343,7 @@
       "address": "0xAB657C39bac0D5886250D70849e2E3E008F2EECB",
       "status": "ok",
       "value": 101.185,
-      "ageSeconds": 14695,
+      "ageSeconds": 18000,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -351,8 +351,8 @@
       "name": "Coinbase META",
       "address": "0x6526aE6797A76123638b863AeE4dD27Ba4E4b27D",
       "status": "ok",
-      "value": 749.46310196,
-      "ageSeconds": 3967,
+      "value": 745.66290987,
+      "ageSeconds": 1928,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -361,7 +361,7 @@
       "address": "0xeB10A6c9aa7E537aEd766C08c35Dae35B321b18c",
       "status": "ok",
       "value": 539.60395,
-      "ageSeconds": 5461,
+      "ageSeconds": 8766,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -369,8 +369,8 @@
       "name": "Coinbase MSTR",
       "address": "0xB3cE282CD188b35DA0E38D8Bc7d58e33173D202a",
       "status": "ok",
-      "value": 152.92,
-      "ageSeconds": 3091,
+      "value": 151.20499999,
+      "ageSeconds": 1984,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -379,7 +379,7 @@
       "address": "0x04689a41629776563E6822F76f2e57D148d28513",
       "status": "ok",
       "value": 226.69988527,
-      "ageSeconds": 9473,
+      "ageSeconds": 12778,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -388,7 +388,7 @@
       "address": "0x388b0dC46C0Fb05A74BeE0994fa5b02c6Fcca2eA",
       "status": "ok",
       "value": 1481.07105,
-      "ageSeconds": 2431,
+      "ageSeconds": 5736,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -397,7 +397,7 @@
       "address": "0x6A634B235903C4ad6376892180d6fF8612e3Fa68",
       "status": "ok",
       "value": 163.8585,
-      "ageSeconds": 6571,
+      "ageSeconds": 9876,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -406,7 +406,7 @@
       "address": "0xFaf869185383a24F8cb00e27BdA6b63B9905DCb4",
       "status": "ok",
       "value": 378.585,
-      "ageSeconds": 11093,
+      "ageSeconds": 14398,
       "heartbeat": 86400,
       "marketHours": "us_equities_24/5"
     },
@@ -415,7 +415,7 @@
       "address": "0xE1F1011D0043392174bF95F0725130E870AbACaa",
       "status": "ok",
       "value": 25987865.31859017,
-      "ageSeconds": 5279,
+      "ageSeconds": 8584,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -423,8 +423,8 @@
       "name": "COMP / USD",
       "address": "0x9DDa783DE64A9d1A60c49ca761EbE528C35BA428",
       "status": "ok",
-      "value": 23.80374,
-      "ageSeconds": 825,
+      "value": 23.933,
+      "ageSeconds": 2358,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -433,7 +433,7 @@
       "address": "0x591e79239a7d679378eC8c847e5038150364C78F",
       "status": "ok",
       "value": 0.99951244,
-      "ageSeconds": 14435,
+      "ageSeconds": 17740,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -442,7 +442,7 @@
       "address": "0xE62BcE5D7CB9d16AB8b4D622538bc0A50A5799c2",
       "status": "ok",
       "value": 0.00098576,
-      "ageSeconds": 2801,
+      "ageSeconds": 6106,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -451,7 +451,7 @@
       "address": "0x249d22434438889106DbB59a576a1787b115E52d",
       "status": "ok",
       "value": 0.08464599,
-      "ageSeconds": 5741,
+      "ageSeconds": 9046,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -460,7 +460,7 @@
       "address": "0x304adeae3041d6D0745249FD4583e8C542De67d6",
       "status": "ok",
       "value": 0.08471752,
-      "ageSeconds": 4533,
+      "ageSeconds": 7838,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -468,8 +468,8 @@
       "name": "ETH / USD",
       "address": "0x50015f8b17fb2C290Dde41fDc246ed0dcEE93a8b",
       "status": "ok",
-      "value": 2510.6371,
-      "ageSeconds": 943,
+      "value": 2505.12,
+      "ageSeconds": 316,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -477,8 +477,8 @@
       "name": "ETH / USD",
       "address": "0x5731Ae06077c79A3B292498940211E0aE7130bd3",
       "status": "ok",
-      "value": 2510.452615336183,
-      "ageSeconds": 931,
+      "value": 2508.7852,
+      "ageSeconds": 724,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -486,8 +486,8 @@
       "name": "ETH / USD",
       "address": "0xa4250cE1aA15Ff4cb5E5a8655293b65694e436Ed",
       "status": "ok",
-      "value": 2510.20186354,
-      "ageSeconds": 915,
+      "value": 2506.802575,
+      "ageSeconds": 348,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -495,8 +495,8 @@
       "name": "EUR / USD",
       "address": "0xc91D87E81faB8f93699ECf7Ee9B44D11e1D53F0F",
       "status": "ok",
-      "value": 1.11598,
-      "ageSeconds": 2639,
+      "value": 1.1157,
+      "ageSeconds": 2342,
       "heartbeat": 3600,
       "marketHours": "Forex"
     },
@@ -504,8 +504,8 @@
       "name": "EURC / USD",
       "address": "0x9867186e52d2F1C2c565CDA6E747101Fa56501e0",
       "status": "ok",
-      "value": 1.11603229,
-      "ageSeconds": 2545,
+      "value": 1.1155335,
+      "ageSeconds": 2246,
       "heartbeat": 3600,
       "marketHours": "Crypto"
     },
@@ -514,7 +514,7 @@
       "address": "0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250",
       "status": "ok",
       "value": 1.11742703,
-      "ageSeconds": 14215,
+      "ageSeconds": 17520,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -523,7 +523,7 @@
       "address": "0xa25cBF938Ace4b219a9d012971c7b4e898EF6c68",
       "status": "ok",
       "value": 1.1164030116910386,
-      "ageSeconds": 10049,
+      "ageSeconds": 13354,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -532,7 +532,7 @@
       "address": "0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3",
       "status": "ok",
       "value": 1.0848522156961342,
-      "ageSeconds": 12459,
+      "ageSeconds": 15764,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -541,7 +541,7 @@
       "address": "0xC4300B7CF0646F0Fe4C5B2ACFCCC4dCA1346f5d8",
       "status": "ok",
       "value": 1.0874681866292366,
-      "ageSeconds": 14349,
+      "ageSeconds": 17654,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -550,7 +550,7 @@
       "address": "0x442f870a32Ea74C1A4630f7Dc357F8aBd552eF37",
       "status": "ok",
       "value": 1.0874031221207783,
-      "ageSeconds": 79133,
+      "ageSeconds": 82438,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -559,7 +559,7 @@
       "address": "0xB93901c344325f89630C56458eD1dD27a76a2FCd",
       "status": "ok",
       "value": 968051.85,
-      "ageSeconds": 22205,
+      "ageSeconds": 25510,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -568,7 +568,7 @@
       "address": "0xCceA6576904C118037695eB71195a5425E69Fa15",
       "status": "ok",
       "value": 1.32469,
-      "ageSeconds": 39127,
+      "ageSeconds": 42432,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -577,7 +577,7 @@
       "address": "0x1B5FEF61Ff9B690364359b03cC07E060b12Bd3C1",
       "status": "ok",
       "value": 0.9990232,
-      "ageSeconds": 79179,
+      "ageSeconds": 82484,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -586,7 +586,7 @@
       "address": "0x42868EFcee13C0E71af89c04fF7d96f5bec479b0",
       "status": "ok",
       "value": 0.99878793,
-      "ageSeconds": 13275,
+      "ageSeconds": 16580,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -595,7 +595,7 @@
       "address": "0xf488FA1B4Ac8210bf0b2d212176ca28c48F86708",
       "status": "ok",
       "value": 3350.51919,
-      "ageSeconds": 71013,
+      "ageSeconds": 74318,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -603,8 +603,8 @@
       "name": "HOME / USD",
       "address": "0x121934C415937863d64ef93436169444633EE0d8",
       "status": "ok",
-      "value": 0.005564732569075847,
-      "ageSeconds": 4067,
+      "value": 0.005533127894875991,
+      "ageSeconds": 2060,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -612,8 +612,8 @@
       "name": "HYPE / USD",
       "address": "0xEdB56c5DE751eD3182DDa337f7d9ab33cf091DcA",
       "status": "ok",
-      "value": 83.627721,
-      "ageSeconds": 5431,
+      "value": 83.208355,
+      "ageSeconds": 2102,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -622,7 +622,7 @@
       "address": "0x7FCED5198e43ec93Ef2179DFC70a8dcf494DcB80",
       "status": "ok",
       "value": 0.01,
-      "ageSeconds": 14711,
+      "ageSeconds": 18016,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -631,7 +631,7 @@
       "address": "0x05A6cF213EcC5501A11a08EBefA4A8a60313ef97",
       "status": "ok",
       "value": 0.00005578,
-      "ageSeconds": 1019,
+      "ageSeconds": 694,
       "heartbeat": 3600,
       "marketHours": "Forex_IDR"
     },
@@ -640,7 +640,7 @@
       "address": "0x83ac12dBb5Bd7Fa597ab2FFEc9F2F13DeDdFe163",
       "status": "ok",
       "value": 1.0401626314548724,
-      "ageSeconds": 14045,
+      "ageSeconds": 17350,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -649,7 +649,7 @@
       "address": "0x9C6BF4884Ff0c7873652F7d5142FA3b9859a526D",
       "status": "ok",
       "value": 1.090921938754256,
-      "ageSeconds": 12521,
+      "ageSeconds": 15826,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -658,7 +658,7 @@
       "address": "0x0ca181015d21A5ed19baFC17F2138883C2b16D54",
       "status": "ok",
       "value": 140.59343427242442,
-      "ageSeconds": 1811,
+      "ageSeconds": 5116,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -667,7 +667,7 @@
       "address": "0x4b28dFaF2aCaF982524a75409Ab59DFf85942Ad7",
       "status": "ok",
       "value": 1.3058987535895972,
-      "ageSeconds": 12185,
+      "ageSeconds": 15490,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -676,7 +676,7 @@
       "address": "0x1E6c22AAA11F507af12034A5Dc4126A6A25DC8d2",
       "status": "ok",
       "value": 1.00397672,
-      "ageSeconds": 14709,
+      "ageSeconds": 18014,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -685,7 +685,7 @@
       "address": "0xBf4892f41c753c5E1b03e8a7B425bd2679a6C224",
       "status": "ok",
       "value": 1.0048690380461085,
-      "ageSeconds": 79113,
+      "ageSeconds": 82418,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -694,7 +694,7 @@
       "address": "0x9e07546c9Fe8868855CD04B26051a26D1599E270",
       "status": "ok",
       "value": 83174.81026123,
-      "ageSeconds": 21109,
+      "ageSeconds": 24414,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -703,7 +703,7 @@
       "address": "0xc5E65227fe3385B88468F9A01600017cDC9F3A12",
       "status": "ok",
       "value": 0.00511889214003652,
-      "ageSeconds": 7,
+      "ageSeconds": 3312,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -712,7 +712,7 @@
       "address": "0x17CAb8FE31E32f08326e5E27412894e49B0f9D65",
       "status": "ok",
       "value": 12.90656304,
-      "ageSeconds": 5523,
+      "ageSeconds": 8828,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -720,8 +720,8 @@
       "name": "LTC / USD",
       "address": "0xa03A14F790eb8F5Ff73227278a3bb6eDE57Dc8c9",
       "status": "ok",
-      "value": 62.4601,
-      "ageSeconds": 2943,
+      "value": 62.14406,
+      "ageSeconds": 2678,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -729,8 +729,8 @@
       "name": "MAMO / USD",
       "address": "0xeF7541b388a77C1709a3d44BfBfC5c1ED3F0Ac94",
       "status": "ok",
-      "value": 0.00740615,
-      "ageSeconds": 5749,
+      "value": 0.00736716,
+      "ageSeconds": 2000,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -739,7 +739,7 @@
       "address": "0x979447581b39caCA33EF0CA8208592393D16cc13",
       "status": "ok",
       "value": 0.02937,
-      "ageSeconds": 2213,
+      "ageSeconds": 5518,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -748,7 +748,7 @@
       "address": "0x9FB8b5A4b3FE655564f0c76616ae79DE90Cc7382",
       "status": "ok",
       "value": 0.0004549,
-      "ageSeconds": 5479,
+      "ageSeconds": 8784,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -756,8 +756,8 @@
       "name": "MLN / USD",
       "address": "0x122b5334A8b55861dBc6729c294451471FbF318D",
       "status": "ok",
-      "value": 1.42885173,
-      "ageSeconds": 8659,
+      "value": 1.41472,
+      "ageSeconds": 990,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -765,8 +765,8 @@
       "name": "MOG / USD",
       "address": "0x4aeb6D15769EaD32D0c5Be2940F40c7CFf53801d",
       "status": "ok",
-      "value": 1.07310559907e-7,
-      "ageSeconds": 2657,
+      "value": 1.0726e-7,
+      "ageSeconds": 2000,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -774,8 +774,8 @@
       "name": "MORPHO / USD",
       "address": "0xe95e258bb6615d47515Fc849f8542dA651f12bF6",
       "status": "ok",
-      "value": 2.37689455,
-      "ageSeconds": 523,
+      "value": 2.3758644,
+      "ageSeconds": 496,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -784,7 +784,7 @@
       "address": "0xb87Eba1aF247453930B71B87e948049882B1A95e",
       "status": "ok",
       "value": 0.0548338356569628,
-      "ageSeconds": 7519,
+      "ageSeconds": 10824,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -792,8 +792,8 @@
       "name": "MXN / USD",
       "address": "0x9e8Ee77c76d4fa41306056D1C3196AF5da1600bd",
       "status": "ok",
-      "value": 0.05482411,
-      "ageSeconds": 1553,
+      "value": 0.05476892,
+      "ageSeconds": 2668,
       "heartbeat": 3600,
       "marketHours": "Forex"
     },
@@ -801,8 +801,8 @@
       "name": "NGN / USD",
       "address": "0xdfbb5Cbc88E382de007bfe6CE99C388176ED80aD",
       "status": "ok",
-      "value": 0.00075173,
-      "ageSeconds": 1181,
+      "value": 0.0007533,
+      "ageSeconds": 884,
       "heartbeat": 3600,
       "marketHours": "Forex_NGN"
     },
@@ -811,7 +811,7 @@
       "address": "0x06bdFe07E71C476157FC025d3cCD4BBe08e83EF9",
       "status": "ok",
       "value": 0.55962,
-      "ageSeconds": 27031,
+      "ageSeconds": 30336,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -819,8 +819,8 @@
       "name": "OP / USD",
       "address": "0x3E3A6bD129A63564FE7abde85FA67c3950569060",
       "status": "ok",
-      "value": 0.13396964,
-      "ageSeconds": 2263,
+      "value": 0.13464695,
+      "ageSeconds": 1306,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -829,7 +829,7 @@
       "address": "0xa718561C4592217b9fa301ADdD183FE4F347E096",
       "status": "ok",
       "value": 0.9998577,
-      "ageSeconds": 12355,
+      "ageSeconds": 15660,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -838,7 +838,7 @@
       "address": "0xd49c546D32D5472a7F7704EC183128512a1B2fcb",
       "status": "ok",
       "value": 4160.484,
-      "ageSeconds": 21927,
+      "ageSeconds": 25232,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -847,7 +847,7 @@
       "address": "0x18A3fcA54FaC5B05837205bA4b823fc56191F793",
       "status": "ok",
       "value": 131.579,
-      "ageSeconds": 1058079,
+      "ageSeconds": 1061384,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -856,7 +856,7 @@
       "address": "0x2a18E2d46Cb067b69e0759dB39b16597fC42D962",
       "status": "ok",
       "value": 5,
-      "ageSeconds": 1058069,
+      "ageSeconds": 1061374,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -865,7 +865,7 @@
       "address": "0xB48ac6409C0c3718b956089b0fFE295A10ACDdad",
       "status": "ok",
       "value": 0.00000407,
-      "ageSeconds": 3289,
+      "ageSeconds": 6594,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -874,7 +874,7 @@
       "address": "0x0396000dc82bfAEe746A9Ac6dC69dAd3223Ca9c6",
       "status": "ok",
       "value": 0.01593777,
-      "ageSeconds": 37897,
+      "ageSeconds": 41202,
       "heartbeat": 86400,
       "marketHours": "Forex_PHP"
     },
@@ -883,7 +883,7 @@
       "address": "0x5E988c11a4f92155C30D9fb69Ed75597f712B113",
       "status": "ok",
       "value": 0.10201334,
-      "ageSeconds": 1101,
+      "ageSeconds": 4406,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -892,7 +892,7 @@
       "address": "0x69a1d14a4e58e97EDE8337DE61eEB2e4a55886E0",
       "status": "ok",
       "value": 1.0742842414507499,
-      "ageSeconds": 12463,
+      "ageSeconds": 15768,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -900,8 +900,8 @@
       "name": "RDNT / USD",
       "address": "0xEf2E24ba6def99B5e0b71F6CDeaF294b02163094",
       "status": "ok",
-      "value": 0.00070799,
-      "ageSeconds": 17,
+      "value": 0.00067537,
+      "ageSeconds": 50,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -910,7 +910,7 @@
       "address": "0x65623109aA4561AD3cfF503542083548CeD7e085",
       "status": "ok",
       "value": 21432.079,
-      "ageSeconds": 1058049,
+      "ageSeconds": 1061354,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -919,7 +919,7 @@
       "address": "0xe2b3688371130f333443428Cf03f27Ce0378F9dC",
       "status": "ok",
       "value": 4.6,
-      "ageSeconds": 1058119,
+      "ageSeconds": 1061424,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -928,7 +928,7 @@
       "address": "0x0df397aFE00085C138a99eFB39C498e08eB95aD1",
       "status": "ok",
       "value": 24408.011,
-      "ageSeconds": 1058069,
+      "ageSeconds": 1061374,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -937,7 +937,7 @@
       "address": "0xe0eda54fC1362C0d7d0ff855E4fCEA79916Fe094",
       "status": "ok",
       "value": 2.2,
-      "ageSeconds": 1058121,
+      "ageSeconds": 1061426,
       "heartbeat": 3024000,
       "marketHours": null
     },
@@ -946,7 +946,7 @@
       "address": "0xf397bF97280B488cA19ee3093E81C0a77F02e9a5",
       "status": "ok",
       "value": 1.1706887474121297,
-      "ageSeconds": 30803,
+      "ageSeconds": 34108,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -955,7 +955,7 @@
       "address": "0x1E6A29666288a310326B37d823Fe4Ea3937424D2",
       "status": "ok",
       "value": 1.1736589440046663,
-      "ageSeconds": 43621,
+      "ageSeconds": 46926,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -964,7 +964,7 @@
       "address": "0x900E653c6b25eCf1eF43525fcCC5263E654085cc",
       "status": "ok",
       "value": 0.9999471630916312,
-      "ageSeconds": 13647,
+      "ageSeconds": 16952,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -973,7 +973,7 @@
       "address": "0xd7221b10FBBC1e1ba95Fd0B4D031C15f7F365296",
       "status": "ok",
       "value": 1.0794039082333307,
-      "ageSeconds": 29889,
+      "ageSeconds": 33194,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -982,7 +982,7 @@
       "address": "0x99DAf760d2CFB770cc17e883dF45454FE421616b",
       "status": "ok",
       "value": 1.0819944221775744,
-      "ageSeconds": 13201,
+      "ageSeconds": 16506,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -991,7 +991,7 @@
       "address": "0xAc0a5bB171350536207245afB0EB269b8195501B",
       "status": "ok",
       "value": 1.0817806021445802,
-      "ageSeconds": 79133,
+      "ageSeconds": 82438,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -999,8 +999,8 @@
       "name": "RSR / USD",
       "address": "0xAa98aE504658766Dfe11F31c5D95a0bdcABDe0b1",
       "status": "ok",
-      "value": 0.00227001,
-      "ageSeconds": 361,
+      "value": 0.00226926,
+      "ageSeconds": 1744,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1009,7 +1009,7 @@
       "address": "0x97b770B0200CCe161907a9cbe0C6B177679f8F7C",
       "status": "ok",
       "value": 1.0822599863364468,
-      "ageSeconds": 14757,
+      "ageSeconds": 18062,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1018,7 +1018,7 @@
       "address": "0xD8B5397eDE8B83553BdFCCAA496dd771c5336D37",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 7097,
+      "ageSeconds": 10402,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -1027,7 +1027,7 @@
       "address": "0xAc5287ad4B1629a88964085FDD1F7d45f8032D33",
       "status": "ok",
       "value": 1.2080096620544376,
-      "ageSeconds": 11391,
+      "ageSeconds": 14696,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1036,7 +1036,7 @@
       "address": "0x1Eba1d6941088c8FCE2CbcaC80754C77871aD093",
       "status": "ok",
       "value": 1.1715771285594698,
-      "ageSeconds": 13493,
+      "ageSeconds": 16798,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1045,7 +1045,7 @@
       "address": "0x81575495532fB311Efc5C993B612564274F0949b",
       "status": "ok",
       "value": 0.78084737,
-      "ageSeconds": 15123,
+      "ageSeconds": 18428,
       "heartbeat": 86400,
       "marketHours": "Forex"
     },
@@ -1053,8 +1053,8 @@
       "name": "SHIB / USD",
       "address": "0xC8D5D660bb585b68fa0263EeD7B4224a5FC99669",
       "status": "ok",
-      "value": 0.00000534,
-      "ageSeconds": 2105,
+      "value": 0.00000531,
+      "ageSeconds": 3248,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1062,8 +1062,8 @@
       "name": "SNX / USD",
       "address": "0xe3971Ed6F1A5903321479Ef3148B5950c0612075",
       "status": "ok",
-      "value": 0.24185751,
-      "ageSeconds": 1379,
+      "value": 0.24201,
+      "ageSeconds": 1142,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1072,7 +1072,7 @@
       "address": "0xDa5Fd22F9382e57534fEdA4fF544878aa1cf401f",
       "status": "ok",
       "value": 107.67975888,
-      "ageSeconds": 2141,
+      "ageSeconds": 5446,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1081,7 +1081,7 @@
       "address": "0x5D424D5a664a9f3c820F422297077d49877F9C93",
       "status": "ok",
       "value": 107.70030606,
-      "ageSeconds": 1825,
+      "ageSeconds": 5130,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1090,7 +1090,7 @@
       "address": "0x67283A47E470afbCcc4aC74ccC32401a81027691",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 12581,
+      "ageSeconds": 15886,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1099,7 +1099,7 @@
       "address": "0xf586d0728a47229e747d824a939000Cf21dEF5A0",
       "status": "ok",
       "value": 0.9998196123199744,
-      "ageSeconds": 14627,
+      "ageSeconds": 17932,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1108,7 +1108,7 @@
       "address": "0x63Af8341b62E683B87bB540896bF283D96B4D385",
       "status": "ok",
       "value": 0.18856846,
-      "ageSeconds": 393,
+      "ageSeconds": 3698,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1117,7 +1117,7 @@
       "address": "0x491a921c41d6a97C57426E0c0108a231cd6E5f60",
       "status": "ok",
       "value": 1.06551958,
-      "ageSeconds": 597,
+      "ageSeconds": 3902,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1126,7 +1126,7 @@
       "address": "0x39C6E14CdE46D4FFD9F04Ff159e7ce8eC20E10B4",
       "status": "ok",
       "value": 0.9992939058434223,
-      "ageSeconds": 13389,
+      "ageSeconds": 16694,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1135,7 +1135,7 @@
       "address": "0x1a42ec779Ed3e5249d9b83Ad6B51492953080Ad9",
       "status": "ok",
       "value": 1.1183246726611085,
-      "ageSeconds": 1677,
+      "ageSeconds": 4982,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1144,7 +1144,7 @@
       "address": "0x79cf4a31B29D69191f0b6E97916eB93FEB81E533",
       "status": "ok",
       "value": 1.25182684,
-      "ageSeconds": 12325,
+      "ageSeconds": 15630,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1153,7 +1153,7 @@
       "address": "0xdEd37FC1400B8022968441356f771639ad1B23aA",
       "status": "ok",
       "value": 1.2526874946890956,
-      "ageSeconds": 14399,
+      "ageSeconds": 17704,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1162,7 +1162,7 @@
       "address": "0x906B24a339b848369B24Dc9Ed368b947fB9693bf",
       "status": "ok",
       "value": 1.112564499946997,
-      "ageSeconds": 13137,
+      "ageSeconds": 16442,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1171,7 +1171,7 @@
       "address": "0xD89c7fFB39C44b17EAecd8717a75A36c19C07582",
       "status": "ok",
       "value": 1.2859365517236685,
-      "ageSeconds": 14519,
+      "ageSeconds": 17824,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1180,7 +1180,7 @@
       "address": "0xBD867487712ADeC5A59b9Ae475Ee942f652B4C91",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 12531,
+      "ageSeconds": 15836,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1189,7 +1189,7 @@
       "address": "0x311D3A3faA1d5939c681E33C2CDAc041FF388EB2",
       "status": "ok",
       "value": 1.1876754393513718,
-      "ageSeconds": 12861,
+      "ageSeconds": 16166,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1197,8 +1197,8 @@
       "name": "TBTC / USD",
       "address": "0x6D75BFB5A5885f841b132198C9f0bE8c872057BF",
       "status": "ok",
-      "value": 82729.03721092,
-      "ageSeconds": 20983,
+      "value": 82268.57586364,
+      "ageSeconds": 1986,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1207,7 +1207,7 @@
       "address": "0x7b1C8C60c05913aF3Aa21BaE3B32A02Ab4f39Bd3",
       "status": "ok",
       "value": 392425.60316564,
-      "ageSeconds": 4581,
+      "ageSeconds": 7886,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1216,7 +1216,7 @@
       "address": "0x8004571d9f54dE016fc3D448e7AEe2d70947727A",
       "status": "ok",
       "value": 1.007647533974254,
-      "ageSeconds": 21375,
+      "ageSeconds": 24680,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1225,7 +1225,7 @@
       "address": "0x0b68ac37a1668DAaab1882543368E076C38C40e9",
       "status": "ok",
       "value": 4725.688262753202,
-      "ageSeconds": 76767,
+      "ageSeconds": 80072,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -1234,7 +1234,7 @@
       "address": "0x7bAfa1Af54f17cC0775a1Cf813B9fF5dED2C51E5",
       "status": "ok",
       "value": 1.89122397,
-      "ageSeconds": 5407,
+      "ageSeconds": 8712,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1242,8 +1242,8 @@
       "name": "TRY / USD",
       "address": "0x29413773e7CD4Dfd6Ad89a50887877b88a6C592C",
       "status": "ok",
-      "value": 0.02027074,
-      "ageSeconds": 897,
+      "value": 0.02027122,
+      "ageSeconds": 600,
       "heartbeat": 3600,
       "marketHours": "Forex"
     },
@@ -1252,7 +1252,7 @@
       "address": "0xbb9786e37D54251477EbC1325b04ACdCA18C2254",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 14651,
+      "ageSeconds": 17956,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1261,7 +1261,7 @@
       "address": "0xbC7c5023eE571e4D9C4890C90a16be05c1EEf410",
       "status": "ok",
       "value": 1.0160702687692365,
-      "ageSeconds": 37843,
+      "ageSeconds": 41148,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1270,7 +1270,7 @@
       "address": "0x9eb8a54d0590798880C665C7A6d51B95f4078Ad7",
       "status": "ok",
       "value": 1608.7024,
-      "ageSeconds": 14387,
+      "ageSeconds": 17692,
       "heartbeat": 86400,
       "marketHours": "Forex_ARS"
     },
@@ -1279,7 +1279,7 @@
       "address": "0xFCb2C36ac8A91cE9D3c94590ED239E1f683467fe",
       "status": "ok",
       "value": 1.00026195,
-      "ageSeconds": 12765,
+      "ageSeconds": 16070,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1288,7 +1288,7 @@
       "address": "0x458138Fc0D67027E9A6778ef40a6ffC318c69061",
       "status": "ok",
       "value": 0.99985526,
-      "ageSeconds": 79155,
+      "ageSeconds": 82460,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1297,7 +1297,7 @@
       "address": "0x7e860098F58bBFC8648a4311b374B1D669a2bc6B",
       "status": "ok",
       "value": 0.99985217,
-      "ageSeconds": 20241,
+      "ageSeconds": 23546,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1306,7 +1306,7 @@
       "address": "0xd0Dc8c910565D94D408729D16bE5467B5d7633Ad",
       "status": "ok",
       "value": 0.999855330346512,
-      "ageSeconds": 79135,
+      "ageSeconds": 82440,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1315,7 +1315,7 @@
       "address": "0x790181e93e9F4Eedb5b864860C12e4d2CffFe73B",
       "status": "ok",
       "value": 0.99963496,
-      "ageSeconds": 14919,
+      "ageSeconds": 18224,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1324,7 +1324,7 @@
       "address": "0x5218Ebeb96bD2bAFe21F9b143f5672552629ba79",
       "status": "ok",
       "value": 14203880.622216277,
-      "ageSeconds": 66269,
+      "ageSeconds": 69574,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1333,7 +1333,7 @@
       "address": "0x2330aaE3bca5F05169d5f4597964D44522F62930",
       "status": "ok",
       "value": 0.99988019,
-      "ageSeconds": 14373,
+      "ageSeconds": 17678,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1342,7 +1342,7 @@
       "address": "0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9",
       "status": "ok",
       "value": 0.99900143,
-      "ageSeconds": 20183,
+      "ageSeconds": 23488,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1351,7 +1351,7 @@
       "address": "0xE6c6bf78308C46bad5Cae5D0ed44b36370b4B00d",
       "status": "ok",
       "value": 0.9989617741053628,
-      "ageSeconds": 79131,
+      "ageSeconds": 82436,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1360,7 +1360,7 @@
       "address": "0xE5fa3A4e4208858ADdf2CDb4e12651E89f1f1A70",
       "status": "ok",
       "value": 0.99896673,
-      "ageSeconds": 79135,
+      "ageSeconds": 82440,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1368,8 +1368,8 @@
       "name": "USR / USD",
       "address": "0x4a595E0a62E50A2E5eC95A70c8E612F9746af006",
       "status": "ok",
-      "value": 0.08172289,
-      "ageSeconds": 59,
+      "value": 0.08158172,
+      "ageSeconds": 152,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1378,7 +1378,7 @@
       "address": "0xEaf310161c9eF7c813A14f8FEF6Fb271434019F7",
       "status": "ok",
       "value": 0.70739289,
-      "ageSeconds": 725,
+      "ageSeconds": 4030,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1386,8 +1386,8 @@
       "name": "VVV / USD",
       "address": "0xaABc55Ca55D70B034e4daA2551A224239890282F",
       "status": "ok",
-      "value": 23.060014827289507,
-      "ageSeconds": 1289,
+      "value": 23.17998054023849,
+      "ageSeconds": 2192,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1396,7 +1396,7 @@
       "address": "0x99C098FA069B120dd81E56c0f2178093cc7a851f",
       "status": "ok",
       "value": 0.923628,
-      "ageSeconds": 615,
+      "ageSeconds": 288,
       "heartbeat": 3600,
       "marketHours": "Crypto"
     },
@@ -1404,8 +1404,8 @@
       "name": "WBTC / USD",
       "address": "0xCCADC697c55bbB68dc5bCdf8d3CBe83CdD4E071E",
       "status": "ok",
-      "value": 82313.41193878,
-      "ageSeconds": 1051,
+      "value": 82205.40192898,
+      "ageSeconds": 694,
       "heartbeat": 1200,
       "marketHours": "Crypto"
     },
@@ -1414,7 +1414,7 @@
       "address": "0x35e9D7001819Ea3B39Da906aE6b06A62cfe2c181",
       "status": "ok",
       "value": 1.105604169124154,
-      "ageSeconds": 13817,
+      "ageSeconds": 17122,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1423,7 +1423,7 @@
       "address": "0xd71cdcAaea1Ce61146CD7257BE65412007a62819",
       "status": "ok",
       "value": 1.1055443013890358,
-      "ageSeconds": 79103,
+      "ageSeconds": 82408,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1432,7 +1432,7 @@
       "address": "0xFC1415403EbB0c693f9a7844b92aD2Ff24775C65",
       "status": "ok",
       "value": 1.1054821142624773,
-      "ageSeconds": 12523,
+      "ageSeconds": 15828,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1440,8 +1440,8 @@
       "name": "WELL / USD",
       "address": "0xc15d9944dAefE2dB03e53bef8DDA25a56832C5fe",
       "status": "ok",
-      "value": 0.00213566,
-      "ageSeconds": 971,
+      "value": 0.0021762,
+      "ageSeconds": 44,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1450,7 +1450,7 @@
       "address": "0xe96EB1EDa83d18cbac224233319FA5071464e1b9",
       "status": "ok",
       "value": 1.1706896778133986,
-      "ageSeconds": 13751,
+      "ageSeconds": 17056,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1459,7 +1459,7 @@
       "address": "0xe8dD07CCf5BC4922424140E44Eb970F5950725ef",
       "status": "ok",
       "value": 1.0819944221775744,
-      "ageSeconds": 13281,
+      "ageSeconds": 16586,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1468,7 +1468,7 @@
       "address": "0x43a5C292A453A3bF3606fa856197f09D7B74251a",
       "status": "ok",
       "value": 1.245941578164686,
-      "ageSeconds": 14597,
+      "ageSeconds": 17902,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1477,7 +1477,7 @@
       "address": "0xfd14a390149e23F972AbC9B7E31d3B1fdf508B38",
       "status": "ok",
       "value": 1.2460888394230976,
-      "ageSeconds": 79133,
+      "ageSeconds": 82438,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1486,7 +1486,7 @@
       "address": "0xB88BAc61a4Ca37C43a3725912B1f472c9A5bc061",
       "status": "ok",
       "value": 1.2461645304306035,
-      "ageSeconds": 21873,
+      "ageSeconds": 25178,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1495,7 +1495,7 @@
       "address": "0x0594c1a01375c1151c2ca78BE4870836EbFA9846",
       "status": "ok",
       "value": 1.1329661589183153,
-      "ageSeconds": 12979,
+      "ageSeconds": 16284,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1504,7 +1504,7 @@
       "address": "0x7dBC779B2A6F9B9AaB83a2dED78A2F7E9e203f0c",
       "status": "ok",
       "value": 60.242,
-      "ageSeconds": 14919,
+      "ageSeconds": 18224,
       "heartbeat": 86400,
       "marketHours": "Precious_Metals"
     },
@@ -1513,7 +1513,7 @@
       "address": "0x5213eBB69743b85644dbB6E25cdF994aFBb8cF31",
       "status": "ok",
       "value": 4173.006,
-      "ageSeconds": 31791,
+      "ageSeconds": 35096,
       "heartbeat": 86400,
       "marketHours": "Precious_Metals"
     },
@@ -1521,8 +1521,8 @@
       "name": "XDC / USD",
       "address": "0x237A94A589DD38DF7e50CeFDa0b8916a54d01ecC",
       "status": "ok",
-      "value": 0.0349958,
-      "ageSeconds": 409,
+      "value": 0.03480189,
+      "ageSeconds": 1254,
       "heartbeat": 14400,
       "marketHours": "Crypto"
     },
@@ -1531,7 +1531,7 @@
       "address": "0xDbc71D0ca5F37dB7A9a45E5c0C46FfFe5E7C24B5",
       "status": "ok",
       "value": 1.009841,
-      "ageSeconds": 83099,
+      "ageSeconds": 86404,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1540,7 +1540,7 @@
       "address": "0xF35059FB4471333F81E4F39fA40260FF53Dc340b",
       "status": "ok",
       "value": 1.35664,
-      "ageSeconds": 585,
+      "ageSeconds": 3890,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1548,8 +1548,8 @@
       "name": "XRP / USD",
       "address": "0x281F1D237Fa1382d96f7A4fd190500D182042e3b",
       "status": "ok",
-      "value": 1.3624143,
-      "ageSeconds": 5541,
+      "value": 1.35542814,
+      "ageSeconds": 3294,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1558,7 +1558,7 @@
       "address": "0x17738F7dacFc1De7d06f22cC52211EBf68744dBA",
       "status": "ok",
       "value": 1,
-      "ageSeconds": 13313,
+      "ageSeconds": 16618,
       "heartbeat": 86400,
       "marketHours": null
     },
@@ -1567,7 +1567,7 @@
       "address": "0x95Eba7bE2f755a298984bd714822994f1d4B6313",
       "status": "ok",
       "value": 1.01152226,
-      "ageSeconds": 13639,
+      "ageSeconds": 16944,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1576,7 +1576,7 @@
       "address": "0xaE95742Cf839529798Bcd1610c6E0AFEBA0cBC03",
       "status": "ok",
       "value": 0.9466462083256877,
-      "ageSeconds": 14349,
+      "ageSeconds": 17654,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1584,8 +1584,8 @@
       "name": "YFI / USD",
       "address": "0xD40e758b5eC80820B68DFC302fc5Ce1239083548",
       "status": "ok",
-      "value": 2349.94757,
-      "ageSeconds": 5635,
+      "value": 2337.2178676,
+      "ageSeconds": 686,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1594,7 +1594,7 @@
       "address": "0xb4482096e3cdE116C15fC0D700a73a58FEdeB8c0",
       "status": "ok",
       "value": 1.0809924023954194,
-      "ageSeconds": 77269,
+      "ageSeconds": 80574,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1602,8 +1602,8 @@
       "name": "ynETHx / ETH Exchange Rate",
       "address": "0x4e7dB2f9a28348AB48a968dd4217D565D1F15Ba4",
       "status": "ok",
-      "value": 1.098167793769553,
-      "ageSeconds": 86177,
+      "value": 1.0982218492050102,
+      "ageSeconds": 3022,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1612,7 +1612,7 @@
       "address": "0xc1a849217F3BaB97F1a46b990e369D6705B4be96",
       "status": "ok",
       "value": 0.998454,
-      "ageSeconds": 2043,
+      "ageSeconds": 1746,
       "heartbeat": 3600,
       "marketHours": "Crypto"
     },
@@ -1620,8 +1620,8 @@
       "name": "ZAR / USD",
       "address": "0x2ecc8A8B370fC6a217166b2782a35339bEBEe98B",
       "status": "ok",
-      "value": 0.06044998,
-      "ageSeconds": 501,
+      "value": 0.06044597,
+      "ageSeconds": 204,
       "heartbeat": 3600,
       "marketHours": "Forex"
     },
@@ -1629,8 +1629,8 @@
       "name": "ZEC / USD",
       "address": "0x69e5BC4988a9AF30Ec827C5609c0D41028446ec0",
       "status": "ok",
-      "value": 1236.3871817830814,
-      "ageSeconds": 3689,
+      "value": 1229.7311,
+      "ageSeconds": 692,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     },
@@ -1638,8 +1638,8 @@
       "name": "ZRO / USD",
       "address": "0xdc31a4CCfCA039BeC6222e20BE7770E12581bfEB",
       "status": "ok",
-      "value": 2.18405561,
-      "ageSeconds": 363,
+      "value": 2.16624055,
+      "ageSeconds": 696,
       "heartbeat": 86400,
       "marketHours": "Crypto"
     }
